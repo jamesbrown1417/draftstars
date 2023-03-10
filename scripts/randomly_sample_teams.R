@@ -1,0 +1,1 @@
+# Randomly sample from team list
