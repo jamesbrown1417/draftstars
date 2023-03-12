@@ -2,7 +2,8 @@
 using Tidier, CSV, Combinatorics, StatsBase
 
 # Import data------------------------------------------------------------------
-data = CSV.read("../data/players_Co0cbrYQ-1.csv", DataFrame)
+data = CSV.read("data/input_file.csv", DataFrame)
+println("Please wait while the data is being processed...")
 
 # Get DataFrames for each position----------------------------------------------
 defenders = @chain data begin
@@ -45,16 +46,31 @@ end
 
 # Sample team-------------------------------------------------------------------
 
+# Minimum salary constraint
+println("What is the minimum salary to be considered?")
+min_salary = parse(Int64, readline())
+
 # List to store teams
 sampled_teams = []
 
 # Sample 10000 teams
 for i in 1:10000
     sampled_team = sample_team(defenders, midfielders, rucks, forwards)
-    if sampled_team[1, :total_salary] <= 100000 &&  sampled_team[1, :total_salary] >= 90000
+    if sampled_team[1, :total_salary] <= 100000 &&  sampled_team[1, :total_salary] >= min_salary
         push!(sampled_teams, sampled_team)
     end
 end
 
+# Take input for the number of teams needed
+print("Enter the number of teams needed: ")
+num_teams = parse(Int64, readline())
+
 # Get 100 random teams from sampled teams meeting budget constraints-------------
-sampled_teams = StatsBase.sample(sampled_teams, 100, replace=false)
+sampled_teams = StatsBase.sample(sampled_teams, num_teams, replace=false)
+
+# Save teams to csv-------------------------------------------------------------
+for (i, team) in enumerate(sampled_teams)
+    CSV.write("output/team_$i.csv", team)
+end
+
+println("Done!")

@@ -2,7 +2,7 @@
 using Tidier, CSV, Combinatorics
 
 # Import data------------------------------------------------------------------
-data = CSV.read("../data/players_Co0cbrYQ-1.csv", DataFrame)
+data = CSV.read("data/players_Co0cbrYQ-1.csv", DataFrame)
 
 # Get DataFrames for each position----------------------------------------------
 defenders = @chain data begin
