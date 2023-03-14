@@ -1,0 +1,2 @@
+echo Starting program
+julia scripts/randomly_sample_teams.jl
