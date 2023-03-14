@@ -5,6 +5,11 @@ using Tidier, CSV, Combinatorics, StatsBase
 data = CSV.read("data/input_file.csv", DataFrame)
 println("Please wait while the data is being processed...")
 
+# Fix data names---------------------------------------------------------------
+data = @chain data begin
+    @rename("Player_ID" = "Player ID", "Playing_Status" = "Playing Status")
+end
+
 # Get DataFrames for each position----------------------------------------------
 defenders = @chain data begin
     @filter(Position == "DEF")
@@ -26,13 +31,23 @@ forwards = @chain data begin
     @arrange(desc(Salary))
 end
 
+# Count the number of possible teams--------------------------------------------
+num_teams = binomial(nrow(defenders), 2) * binomial(nrow(midfielders), 4) * binomial(nrow(rucks), 1) * binomial(nrow(forwards), 2)
+println("From the players provided, there are $num_teams possible teams.")
+
+# Get weights for each position-------------------------------------------------
+def_wts = defenders[!, :Weight]
+mid_wts = midfielders[!, :Weight]
+rk_wts = rucks[!, :Weight]
+fwd_wts = forwards[!, :Weight]
+
 # Function to Randomly sample a team--------------------------------------------
 function sample_team(defenders, midfielders, rucks, forwards)
     # Sample indices
-    def_indices = StatsBase.sample(1:nrow(defenders), 2, replace=false)
-    mid_indices = StatsBase.sample(1:nrow(midfielders), 4, replace=false)
-    ruck_indices = StatsBase.sample(1:nrow(rucks), 1, replace=false)
-    fwd_indices = StatsBase.sample(1:nrow(forwards), 2, replace=false)
+    def_indices = StatsBase.wsample(1:nrow(defenders), def_wts, 2, replace=false)
+    mid_indices = StatsBase.wsample(1:nrow(midfielders), mid_wts, 4, replace=false)
+    ruck_indices = StatsBase.wsample(1:nrow(rucks), rk_wts, 1, replace=false)
+    fwd_indices = StatsBase.wsample(1:nrow(forwards), fwd_wts, 2, replace=false)
 
     # Create team
     team = vcat(defenders[def_indices, :], midfielders[mid_indices, :], rucks[ruck_indices, :], forwards[fwd_indices, :])
@@ -47,7 +62,7 @@ end
 # Sample team-------------------------------------------------------------------
 
 # Minimum salary constraint
-println("What is the minimum salary to be considered?")
+print("What is the minimum salary to be considered?: ")
 min_salary = parse(Int64, readline())
 
 # List to store teams
@@ -61,6 +76,9 @@ for i in 1:10000
     end
 end
 
+# Remove duplicates-------------------------------------------------------------
+sampled_teams = unique(sampled_teams)
+
 # Take input for the number of teams needed
 print("Enter the number of teams needed: ")
 num_teams = parse(Int64, readline())
@@ -68,9 +86,51 @@ num_teams = parse(Int64, readline())
 # Get 100 random teams from sampled teams meeting budget constraints-------------
 sampled_teams = StatsBase.sample(sampled_teams, num_teams, replace=false)
 
-# Save teams to csv-------------------------------------------------------------
-for (i, team) in enumerate(sampled_teams)
-    CSV.write("output/team_$i.csv", team)
+# Remove all existing files in output folder------------------------------------
+
+# Get all CSV files in output folder
+output_files = readdir("output", join=true)
+output_files = filter(x -> endswith(x, ".csv"), output_files)
+
+# Delete files
+for file in output_files
+    rm(file)
 end
+
+# Get teams in one DataFrame----------------------------------------------------
+
+# Create a dataframe with empty columns
+empty_team = DataFrame(
+    Player_ID = Missing[missing],
+    Position = Missing[missing],
+    Name = Missing[missing],
+    Team = Missing[missing],
+    Opponent = Missing[missing],
+    Salary = Missing[missing],
+    FPPG = Missing[missing],
+    Form = Missing[missing],
+    Playing_Status = Missing[missing],
+    Weight = Missing[missing],
+    total_salary = Missing[missing],
+    team_number = Missing[missing])
+
+# Create a new list to store teams with empty team included between each team
+new_sampled_teams = []
+
+# Create a dataframe with all teams
+for (i, team) in enumerate(sampled_teams)
+    team[!, :team_number] .= i
+    push!(new_sampled_teams, team)
+    push!(new_sampled_teams, empty_team)
+end
+
+# Remove last empty team
+pop!(new_sampled_teams)
+
+# Create a dataframe with all teams
+all_teams = vcat(new_sampled_teams...)
+
+# Save teams to csv-------------------------------------------------------------
+CSV.write("output/$(num_teams)_sampled_teams.csv", all_teams)
 
 println("Done!")

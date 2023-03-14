@@ -2,7 +2,7 @@
 using Tidier, CSV, Combinatorics
 
 # Import data------------------------------------------------------------------
-data = CSV.read("data/players_Co0cbrYQ-1.csv", DataFrame)
+data = CSV.read("data/input_file.csv", DataFrame)
 
 # Get DataFrames for each position----------------------------------------------
 defenders = @chain data begin
@@ -35,6 +35,9 @@ midfielder_combinations = combinations(1:nrow(midfielders), 4)
 ruck_combinations = combinations(1:nrow(rucks), 1)
 forward_combinations = combinations(1:nrow(forwards), 2)
 
+# Print number of combinations--------------------------------------------------
+num_combinations = length(defender_combinations) * length(midfielder_combinations) * length(ruck_combinations) * length(forward_combinations)
+println("Number of possible teams: $num_combinations")
 
 # Get all possible teams under budget-------------------------------------------
 
