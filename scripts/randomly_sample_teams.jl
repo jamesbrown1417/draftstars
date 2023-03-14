@@ -76,10 +76,18 @@ for i in 1:10000
     end
 end
 
-# Remove duplicates-------------------------------------------------------------
-sampled_teams = unique(sampled_teams)
+# Remove duplicates if any exist------------------------------------------------
 
-# Take input for the number of teams needed
+# Hash value of each team's set of player names
+team_hashes = [hash(Set(team.Name)) for team in sampled_teams]
+
+# Get indices of unique teams
+unique_indices = unique(i -> team_hashes[i], 1:length(team_hashes))
+
+# Get unique teams
+sampled_teams = sampled_teams[unique_indices]
+
+# Take input for the number of teams needed-------------------------------------
 print("Enter the number of teams needed: ")
 num_teams = parse(Int64, readline())
 
