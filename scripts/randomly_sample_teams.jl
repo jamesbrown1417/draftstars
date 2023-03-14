@@ -5,6 +5,12 @@ using Tidier, CSV, Combinatorics, StatsBase
 data = CSV.read("data/input_file.csv", DataFrame)
 println("Please wait while the data is being processed...")
 
+# Function to format possible number of teams-----------------------------------
+function commas(num::Integer)
+    str = string(num)
+    return replace(str, r"(?<=[0-9])(?=(?:[0-9]{3})+(?![0-9]))" => ",")
+end
+
 # Fix data names---------------------------------------------------------------
 data = @chain data begin
     @rename("Player_ID" = "Player ID", "Playing_Status" = "Playing Status")
@@ -33,6 +39,7 @@ end
 
 # Count the number of possible teams--------------------------------------------
 num_teams = binomial(nrow(defenders), 2) * binomial(nrow(midfielders), 4) * binomial(nrow(rucks), 1) * binomial(nrow(forwards), 2)
+num_teams = commas(num_teams)
 println("From the players provided, there are $num_teams possible teams.")
 
 # Get weights for each position-------------------------------------------------
