@@ -1,0 +1,1000 @@
+Player_ID,Position,Name,Team,Opponent,Salary,FPPG,Form,Playing_Status,Weight,total_salary,team_number
+8000007,DEF,Sam Docherty,Carlton,Richmond,17160,0,0,,0.06727565,99070,1
+8000608,DEF,Nathan Broad,Richmond,Carlton,9620,0,0,,0.037715137,99070,1
+8001378,MID,Matthew Cottrell,Carlton,Richmond,9750,0,0,,0.030330368,99070,1
+8000040,MID,Kamdyn McIntosh,Richmond,Carlton,11210,0,0,,0.034872146,99070,1
+8000028,MID,Trent Cotchin,Richmond,Carlton,12670,0,0,,0.039413924,99070,1
+8001454,MID,Jack Ross,Richmond,Carlton,9980,0,0,,0.031045853,99070,1
+8001838,RK,Domanic Akuei,Carlton,Richmond,6000,0,0,,0.088054006,99070,1
+8000139,FWD,Jack Martin,Carlton,Richmond,7910,0,0,,0.027927833,99070,1
+8000803,FWD,Tim Taranto,Richmond,Carlton,14770,0,0,,0.052148431,99070,1
+,,,,,,,,,,,
+8000608,DEF,Nathan Broad,Richmond,Carlton,9620,0,0,,0.037715137,99670,2
+8000099,DEF,Zac Williams,Carlton,Richmond,10870,0,0,,0.042615753,99670,2
+8000231,MID,George Hewett,Carlton,Richmond,12880,0,0,,0.040067193,99670,2
+8001384,MID,Sam Walsh,Carlton,Richmond,15150,0,0,,0.047128725,99670,2
+8000028,MID,Trent Cotchin,Richmond,Carlton,12670,0,0,,0.039413924,99670,2
+8000039,MID,Dustin Martin,Richmond,Carlton,13330,0,0,,0.041467057,99670,2
+8001790,RK,Samson Ryan,Richmond,Carlton,6000,0,0,,0.088054006,99670,2
+8000723,FWD,Harry McKay,Carlton,Richmond,11240,0,0,,0.039685062,99670,2
+8000139,FWD,Jack Martin,Carlton,Richmond,7910,0,0,,0.027927833,99670,2
+,,,,,,,,,,,
+8000984,DEF,Liam Baker,Richmond,Carlton,10740,0,0,,0.042106089,99970,3
+8000906,DEF,Lewis Young,Carlton,Richmond,8750,0,0,,0.034304309,99970,3
+8000231,MID,George Hewett,Carlton,Richmond,12880,0,0,,0.040067193,99970,3
+8000936,MID,Adam Cerra,Carlton,Richmond,14120,0,0,,0.043924594,99970,3
+8000803,MID,Tim Taranto,Richmond,Carlton,14770,0,0,,0.045946619,99970,3
+8000144,MID,Dion Prestia,Richmond,Carlton,13300,0,0,,0.041373732,99970,3
+8000918,RK,Tom De Koning,Carlton,Richmond,9660,0,0,,0.14176695,99970,3
+8002278,FWD,Jaxon Binns,Carlton,Richmond,6000,0,0,,0.021184197,99970,3
+8001378,FWD,Matthew Cottrell,Carlton,Richmond,9750,0,0,,0.034424319,99970,3
+,,,,,,,,,,,
+8000167,DEF,Mitch McGovern,Carlton,Richmond,9850,0,0,,0.03861685,99780,4
+8000007,DEF,Sam Docherty,Carlton,Richmond,17160,0,0,,0.06727565,99780,4
+8000028,MID,Trent Cotchin,Richmond,Carlton,12670,0,0,,0.039413924,99780,4
+8001384,MID,Sam Walsh,Carlton,Richmond,15150,0,0,,0.047128725,99780,4
+8001568,MID,Thomson Dow,Richmond,Carlton,7220,0,0,,0.022460026,99780,4
+8001378,MID,Matthew Cottrell,Carlton,Richmond,9750,0,0,,0.030330368,99780,4
+8001787,RK,Mate Colina,Richmond,Carlton,6000,0,0,,0.088054006,99780,4
+8000984,FWD,Liam Baker,Richmond,Carlton,10740,0,0,,0.037919712,99780,4
+8000723,FWD,Harry McKay,Carlton,Richmond,11240,0,0,,0.039685062,99780,4
+,,,,,,,,,,,
+8000984,DEF,Liam Baker,Richmond,Carlton,10740,0,0,,0.042106089,99170,5
+8000167,DEF,Mitch McGovern,Carlton,Richmond,9850,0,0,,0.03861685,99170,5
+8000039,MID,Dustin Martin,Richmond,Carlton,13330,0,0,,0.041467057,99170,5
+8000231,MID,George Hewett,Carlton,Richmond,12880,0,0,,0.040067193,99170,5
+8000144,MID,Dion Prestia,Richmond,Carlton,13300,0,0,,0.041373732,99170,5
+8000461,MID,Jayden Short,Richmond,Carlton,13430,0,0,,0.041778137,99170,5
+8000454,RK,Marc Pittonet,Carlton,Richmond,8720,0,0,,0.127971823,99170,5
+8000716,FWD,Zac Fisher,Carlton,Richmond,10840,0,0,,0.038272782,99170,5
+8001789,FWD,Maurice Rioli,Richmond,Carlton,6080,0,0,,0.021466653,99170,5
+,,,,,,,,,,,
+8000007,DEF,Sam Docherty,Carlton,Richmond,17160,0,0,,0.06727565,99110,6
+8001788,DEF,Rhyan Mansell,Richmond,Carlton,7340,0,0,,0.028776414,99110,6
+8000803,MID,Tim Taranto,Richmond,Carlton,14770,0,0,,0.045946619,99110,6
+8000499,MID,Jacob Hopper,Richmond,Carlton,12690,0,0,,0.03947614,99110,6
+8000936,MID,Adam Cerra,Carlton,Richmond,14120,0,0,,0.043924594,99110,6
+8000004,MID,Patrick Cripps,Carlton,Richmond,15030,0,0,,0.046755428,99110,6
+8001787,RK,Mate Colina,Richmond,Carlton,6000,0,0,,0.088054006,99110,6
+8001894,FWD,Judson Clarke,Richmond,Carlton,6000,0,0,,0.021184197,99110,6
+8001508,FWD,Josh Honey,Carlton,Richmond,6000,0,0,,0.021184197,99110,6
+,,,,,,,,,,,
+8001812,DEF,Jordan Boyd,Carlton,Richmond,6380,0,0,,0.025012742,99280,7
+8000047,DEF,Daniel Rioli,Richmond,Carlton,12080,0,0,,0.047359548,99280,7
+8001495,MID,Marlion Pickett,Richmond,Carlton,10390,0,0,,0.032321284,99280,7
+8000144,MID,Dion Prestia,Richmond,Carlton,13300,0,0,,0.041373732,99280,7
+8000936,MID,Adam Cerra,Carlton,Richmond,14120,0,0,,0.043924594,99280,7
+8000004,MID,Patrick Cripps,Carlton,Richmond,15030,0,0,,0.046755428,99280,7
+8001787,RK,Mate Colina,Richmond,Carlton,6000,0,0,,0.088054006,99280,7
+8000984,FWD,Liam Baker,Richmond,Carlton,10740,0,0,,0.037919712,99280,7
+8000723,FWD,Harry McKay,Carlton,Richmond,11240,0,0,,0.039685062,99280,7
+,,,,,,,,,,,
+8002279,DEF,Alex Cincotta,Carlton,Richmond,6000,0,0,,0.023522954,99960,8
+8000007,DEF,Sam Docherty,Carlton,Richmond,17160,0,0,,0.06727565,99960,8
+8001568,MID,Thomson Dow,Richmond,Carlton,7220,0,0,,0.022460026,99960,8
+8001384,MID,Sam Walsh,Carlton,Richmond,15150,0,0,,0.047128725,99960,8
+8000921,MID,Lochie O'Brien,Carlton,Richmond,10240,0,0,,0.031854663,99960,8
+8001378,MID,Matthew Cottrell,Carlton,Richmond,9750,0,0,,0.030330368,99960,8
+8000454,RK,Marc Pittonet,Carlton,Richmond,8720,0,0,,0.127971823,99960,8
+8000854,FWD,Shai Bolton,Richmond,Carlton,10950,0,0,,0.038661159,99960,8
+8000803,FWD,Tim Taranto,Richmond,Carlton,14770,0,0,,0.052148431,99960,8
+,,,,,,,,,,,
+8002341,DEF,Tylar Young,Richmond,Carlton,6000,0,0,,0.023522954,99330,9
+8001788,DEF,Rhyan Mansell,Richmond,Carlton,7340,0,0,,0.028776414,99330,9
+8000231,MID,George Hewett,Carlton,Richmond,12880,0,0,,0.040067193,99330,9
+8000040,MID,Kamdyn McIntosh,Richmond,Carlton,11210,0,0,,0.034872146,99330,9
+8000144,MID,Dion Prestia,Richmond,Carlton,13300,0,0,,0.041373732,99330,9
+8000461,MID,Jayden Short,Richmond,Carlton,13430,0,0,,0.041778137,99330,9
+8000918,RK,Tom De Koning,Carlton,Richmond,9660,0,0,,0.14176695,99330,9
+8000803,FWD,Tim Taranto,Richmond,Carlton,14770,0,0,,0.052148431,99330,9
+8000984,FWD,Liam Baker,Richmond,Carlton,10740,0,0,,0.037919712,99330,9
+,,,,,,,,,,,
+8000906,DEF,Lewis Young,Carlton,Richmond,8750,0,0,,0.034304309,99330,10
+8000881,DEF,Nic Newman,Carlton,Richmond,12240,0,0,,0.047986827,99330,10
+8000856,MID,Jack Graham,Richmond,Carlton,11040,0,0,,0.034343309,99330,10
+8000231,MID,George Hewett,Carlton,Richmond,12880,0,0,,0.040067193,99330,10
+8000144,MID,Dion Prestia,Richmond,Carlton,13300,0,0,,0.041373732,99330,10
+8001896,MID,Tyler Sonsie,Richmond,Carlton,9310,0,0,,0.028961613,99330,10
+8002283,RK,Hudson O'Keeffe,Carlton,Richmond,6000,0,0,,0.088054006,99330,10
+8000856,FWD,Jack Graham,Richmond,Carlton,11040,0,0,,0.038978922,99330,10
+8000803,FWD,Tim Taranto,Richmond,Carlton,14770,0,0,,0.052148431,99330,10
+,,,,,,,,,,,
+8000984,DEF,Liam Baker,Richmond,Carlton,10740,0,0,,0.042106089,99340,11
+8000147,DEF,Adam Saad,Carlton,Richmond,12780,0,0,,0.050103893,99340,11
+8000144,MID,Dion Prestia,Richmond,Carlton,13300,0,0,,0.041373732,99340,11
+8000945,MID,Lachie Fogarty,Carlton,Richmond,7170,0,0,,0.022304486,99340,11
+8000621,MID,Matthew Kennedy,Carlton,Richmond,12940,0,0,,0.040253842,99340,11
+8000461,MID,Jayden Short,Richmond,Carlton,13430,0,0,,0.041778137,99340,11
+8000240,RK,Toby Nankervis,Richmond,Carlton,12090,0,0,,0.177428823,99340,11
+8001567,FWD,Noah Cumberland,Richmond,Carlton,7580,0,0,,0.026762702,99340,11
+8001896,FWD,Tyler Sonsie,Richmond,Carlton,9310,0,0,,0.032870812,99340,11
+,,,,,,,,,,,
+8001509,DEF,Brodie Kemp,Carlton,Richmond,6120,0,0,,0.023993414,99380,12
+8000147,DEF,Adam Saad,Carlton,Richmond,12780,0,0,,0.050103893,99380,12
+8000854,MID,Shai Bolton,Richmond,Carlton,10950,0,0,,0.034063336,99380,12
+8001384,MID,Sam Walsh,Carlton,Richmond,15150,0,0,,0.047128725,99380,12
+8000461,MID,Jayden Short,Richmond,Carlton,13430,0,0,,0.041778137,99380,12
+8001454,MID,Jack Ross,Richmond,Carlton,9980,0,0,,0.031045853,99380,12
+8000918,RK,Tom De Koning,Carlton,Richmond,9660,0,0,,0.14176695,99380,12
+8000637,FWD,Jack Silvagni,Carlton,Richmond,10270,0,0,,0.036260283,99380,12
+8000856,FWD,Jack Graham,Richmond,Carlton,11040,0,0,,0.038978922,99380,12
+,,,,,,,,,,,
+8000022,DEF,Jacob Weitering,Carlton,Richmond,8370,0,0,,0.032814522,99390,13
+8000193,DEF,Robbie Tarrant,Richmond,Carlton,6000,0,0,,0.023522954,99390,13
+8000856,MID,Jack Graham,Richmond,Carlton,11040,0,0,,0.034343309,99390,13
+8000028,MID,Trent Cotchin,Richmond,Carlton,12670,0,0,,0.039413924,99390,13
+8000379,MID,Blake Acres,Carlton,Richmond,11720,0,0,,0.036458657,99390,13
+8000936,MID,Adam Cerra,Carlton,Richmond,14120,0,0,,0.043924594,99390,13
+8000918,RK,Tom De Koning,Carlton,Richmond,9660,0,0,,0.14176695,99390,13
+8000803,FWD,Tim Taranto,Richmond,Carlton,14770,0,0,,0.052148431,99390,13
+8000856,FWD,Jack Graham,Richmond,Carlton,11040,0,0,,0.038978922,99390,13
+,,,,,,,,,,,
+8000984,DEF,Liam Baker,Richmond,Carlton,10740,0,0,,0.042106089,99100,14
+8000050,DEF,Nick Vlastuin,Richmond,Carlton,12520,0,0,,0.049084565,99100,14
+8001568,MID,Thomson Dow,Richmond,Carlton,7220,0,0,,0.022460026,99100,14
+8000621,MID,Matthew Kennedy,Carlton,Richmond,12940,0,0,,0.040253842,99100,14
+8001454,MID,Jack Ross,Richmond,Carlton,9980,0,0,,0.031045853,99100,14
+8000040,MID,Kamdyn McIntosh,Richmond,Carlton,11210,0,0,,0.034872146,99100,14
+8000240,RK,Toby Nankervis,Richmond,Carlton,12090,0,0,,0.177428823,99100,14
+8001732,FWD,Jack Carroll,Carlton,Richmond,7630,0,0,,0.026939237,99100,14
+8000803,FWD,Tim Taranto,Richmond,Carlton,14770,0,0,,0.052148431,99100,14
+,,,,,,,,,,,
+8000533,DEF,Lachie Plowman,Carlton,Richmond,7560,0,0,,0.029638923,99510,15
+8000881,DEF,Nic Newman,Carlton,Richmond,12240,0,0,,0.047986827,99510,15
+8000856,MID,Jack Graham,Richmond,Carlton,11040,0,0,,0.034343309,99510,15
+8000499,MID,Jacob Hopper,Richmond,Carlton,12690,0,0,,0.03947614,99510,15
+8000039,MID,Dustin Martin,Richmond,Carlton,13330,0,0,,0.041467057,99510,15
+8000040,MID,Kamdyn McIntosh,Richmond,Carlton,11210,0,0,,0.034872146,99510,15
+8000918,RK,Tom De Koning,Carlton,Richmond,9660,0,0,,0.14176695,99510,15
+8000856,FWD,Jack Graham,Richmond,Carlton,11040,0,0,,0.038978922,99510,15
+8000984,FWD,Liam Baker,Richmond,Carlton,10740,0,0,,0.037919712,99510,15
+,,,,,,,,,,,
+8000050,DEF,Nick Vlastuin,Richmond,Carlton,12520,0,0,,0.049084565,99320,16
+8001892,DEF,Sam Banks,Richmond,Carlton,6000,0,0,,0.023522954,99320,16
+8001454,MID,Jack Ross,Richmond,Carlton,9980,0,0,,0.031045853,99320,16
+8000936,MID,Adam Cerra,Carlton,Richmond,14120,0,0,,0.043924594,99320,16
+8000006,MID,Ed Curnow,Carlton,Richmond,11870,0,0,,0.036925278,99320,16
+8001495,MID,Marlion Pickett,Richmond,Carlton,10390,0,0,,0.032321284,99320,16
+8000454,RK,Marc Pittonet,Carlton,Richmond,8720,0,0,,0.127971823,99320,16
+8000803,FWD,Tim Taranto,Richmond,Carlton,14770,0,0,,0.052148431,99320,16
+8000854,FWD,Shai Bolton,Richmond,Carlton,10950,0,0,,0.038661159,99320,16
+,,,,,,,,,,,
+8000608,DEF,Nathan Broad,Richmond,Carlton,9620,0,0,,0.037715137,99140,17
+8000985,DEF,Noah Balta,Richmond,Carlton,7720,0,0,,0.030266201,99140,17
+8000004,MID,Patrick Cripps,Carlton,Richmond,15030,0,0,,0.046755428,99140,17
+8000231,MID,George Hewett,Carlton,Richmond,12880,0,0,,0.040067193,99140,17
+8000803,MID,Tim Taranto,Richmond,Carlton,14770,0,0,,0.045946619,99140,17
+8000621,MID,Matthew Kennedy,Carlton,Richmond,12940,0,0,,0.040253842,99140,17
+8000857,RK,Ivan Soldo,Richmond,Carlton,7670,0,0,,0.112562372,99140,17
+8000716,FWD,Zac Fisher,Carlton,Richmond,10840,0,0,,0.038272782,99140,17
+8000857,FWD,Ivan Soldo,Richmond,Carlton,7670,0,0,,0.027080465,99140,17
+,,,,,,,,,,,
+8000167,DEF,Mitch McGovern,Carlton,Richmond,9850,0,0,,0.03861685,99500,18
+8000050,DEF,Nick Vlastuin,Richmond,Carlton,12520,0,0,,0.049084565,99500,18
+8000921,MID,Lochie O'Brien,Carlton,Richmond,10240,0,0,,0.031854663,99500,18
+8001378,MID,Matthew Cottrell,Carlton,Richmond,9750,0,0,,0.030330368,99500,18
+8001454,MID,Jack Ross,Richmond,Carlton,9980,0,0,,0.031045853,99500,18
+8001384,MID,Sam Walsh,Carlton,Richmond,15150,0,0,,0.047128725,99500,18
+8000918,RK,Tom De Koning,Carlton,Richmond,9660,0,0,,0.14176695,99500,18
+8000803,FWD,Tim Taranto,Richmond,Carlton,14770,0,0,,0.052148431,99500,18
+8001567,FWD,Noah Cumberland,Richmond,Carlton,7580,0,0,,0.026762702,99500,18
+,,,,,,,,,,,
+8000608,DEF,Nathan Broad,Richmond,Carlton,9620,0,0,,0.037715137,99280,19
+8000099,DEF,Zac Williams,Carlton,Richmond,10870,0,0,,0.042615753,99280,19
+8000231,MID,George Hewett,Carlton,Richmond,12880,0,0,,0.040067193,99280,19
+8000461,MID,Jayden Short,Richmond,Carlton,13430,0,0,,0.041778137,99280,19
+8000936,MID,Adam Cerra,Carlton,Richmond,14120,0,0,,0.043924594,99280,19
+8000499,MID,Jacob Hopper,Richmond,Carlton,12690,0,0,,0.03947614,99280,19
+8000454,RK,Marc Pittonet,Carlton,Richmond,8720,0,0,,0.127971823,99280,19
+8001733,FWD,Corey Durdin,Carlton,Richmond,6000,0,0,,0.021184197,99280,19
+8000854,FWD,Shai Bolton,Richmond,Carlton,10950,0,0,,0.038661159,99280,19
+,,,,,,,,,,,
+8000099,DEF,Zac Williams,Carlton,Richmond,10870,0,0,,0.042615753,99880,20
+8000167,DEF,Mitch McGovern,Carlton,Richmond,9850,0,0,,0.03861685,99880,20
+8000621,MID,Matthew Kennedy,Carlton,Richmond,12940,0,0,,0.040253842,99880,20
+8000803,MID,Tim Taranto,Richmond,Carlton,14770,0,0,,0.045946619,99880,20
+8000921,MID,Lochie O'Brien,Carlton,Richmond,10240,0,0,,0.031854663,99880,20
+8000945,MID,Lachie Fogarty,Carlton,Richmond,7170,0,0,,0.022304486,99880,20
+8000240,RK,Toby Nankervis,Richmond,Carlton,12090,0,0,,0.177428823,99880,20
+8000509,FWD,David Cuningham,Carlton,Richmond,7180,0,0,,0.025350422,99880,20
+8000803,FWD,Tim Taranto,Richmond,Carlton,14770,0,0,,0.052148431,99880,20
+,,,,,,,,,,,
+8000608,DEF,Nathan Broad,Richmond,Carlton,9620,0,0,,0.037715137,99200,21
+8001893,DEF,Tom Brown,Richmond,Carlton,6000,0,0,,0.023522954,99200,21
+8000936,MID,Adam Cerra,Carlton,Richmond,14120,0,0,,0.043924594,99200,21
+8000231,MID,George Hewett,Carlton,Richmond,12880,0,0,,0.040067193,99200,21
+8000461,MID,Jayden Short,Richmond,Carlton,13430,0,0,,0.041778137,99200,21
+8000621,MID,Matthew Kennedy,Carlton,Richmond,12940,0,0,,0.040253842,99200,21
+8000240,RK,Toby Nankervis,Richmond,Carlton,12090,0,0,,0.177428823,99200,21
+8000854,FWD,Shai Bolton,Richmond,Carlton,10950,0,0,,0.038661159,99200,21
+8000945,FWD,Lachie Fogarty,Carlton,Richmond,7170,0,0,,0.025315115,99200,21
+,,,,,,,,,,,
+8000047,DEF,Daniel Rioli,Richmond,Carlton,12080,0,0,,0.047359548,99690,22
+8000022,DEF,Jacob Weitering,Carlton,Richmond,8370,0,0,,0.032814522,99690,22
+8000006,MID,Ed Curnow,Carlton,Richmond,11870,0,0,,0.036925278,99690,22
+8000854,MID,Shai Bolton,Richmond,Carlton,10950,0,0,,0.034063336,99690,22
+8000144,MID,Dion Prestia,Richmond,Carlton,13300,0,0,,0.041373732,99690,22
+8000499,MID,Jacob Hopper,Richmond,Carlton,12690,0,0,,0.03947614,99690,22
+8000918,RK,Tom De Koning,Carlton,Richmond,9660,0,0,,0.14176695,99690,22
+8000803,FWD,Tim Taranto,Richmond,Carlton,14770,0,0,,0.052148431,99690,22
+8001508,FWD,Josh Honey,Carlton,Richmond,6000,0,0,,0.021184197,99690,22
+,,,,,,,,,,,
+8001571,DEF,Hugo Ralphsmith,Richmond,Carlton,8180,0,0,,0.032069628,99760,23
+8000881,DEF,Nic Newman,Carlton,Richmond,12240,0,0,,0.047986827,99760,23
+8000144,MID,Dion Prestia,Richmond,Carlton,13300,0,0,,0.041373732,99760,23
+8001384,MID,Sam Walsh,Carlton,Richmond,15150,0,0,,0.047128725,99760,23
+8000379,MID,Blake Acres,Carlton,Richmond,11720,0,0,,0.036458657,99760,23
+8000921,MID,Lochie O'Brien,Carlton,Richmond,10240,0,0,,0.031854663,99760,23
+8000240,RK,Toby Nankervis,Richmond,Carlton,12090,0,0,,0.177428823,99760,23
+8002338,FWD,Seth Campbell,Richmond,Carlton,6000,0,0,,0.021184197,99760,23
+8000716,FWD,Zac Fisher,Carlton,Richmond,10840,0,0,,0.038272782,99760,23
+,,,,,,,,,,,
+8000007,DEF,Sam Docherty,Carlton,Richmond,17160,0,0,,0.06727565,99980,24
+8000050,DEF,Nick Vlastuin,Richmond,Carlton,12520,0,0,,0.049084565,99980,24
+8001896,MID,Tyler Sonsie,Richmond,Carlton,9310,0,0,,0.028961613,99980,24
+8000231,MID,George Hewett,Carlton,Richmond,12880,0,0,,0.040067193,99980,24
+8001495,MID,Marlion Pickett,Richmond,Carlton,10390,0,0,,0.032321284,99980,24
+8001892,MID,Sam Banks,Richmond,Carlton,6000,0,0,,0.018664842,99980,24
+8001838,RK,Domanic Akuei,Carlton,Richmond,6000,0,0,,0.088054006,99980,24
+8000803,FWD,Tim Taranto,Richmond,Carlton,14770,0,0,,0.052148431,99980,24
+8000854,FWD,Shai Bolton,Richmond,Carlton,10950,0,0,,0.038661159,99980,24
+,,,,,,,,,,,
+8000881,DEF,Nic Newman,Carlton,Richmond,12240,0,0,,0.047986827,99910,25
+8000906,DEF,Lewis Young,Carlton,Richmond,8750,0,0,,0.034304309,99910,25
+8000803,MID,Tim Taranto,Richmond,Carlton,14770,0,0,,0.045946619,99910,25
+8001568,MID,Thomson Dow,Richmond,Carlton,7220,0,0,,0.022460026,99910,25
+8001454,MID,Jack Ross,Richmond,Carlton,9980,0,0,,0.031045853,99910,25
+8000231,MID,George Hewett,Carlton,Richmond,12880,0,0,,0.040067193,99910,25
+8000240,RK,Toby Nankervis,Richmond,Carlton,12090,0,0,,0.177428823,99910,25
+8000005,FWD,Charlie Curnow,Carlton,Richmond,10940,0,0,,0.038625852,99910,25
+8000856,FWD,Jack Graham,Richmond,Carlton,11040,0,0,,0.038978922,99910,25
+,,,,,,,,,,,
+8000007,DEF,Sam Docherty,Carlton,Richmond,17160,0,0,,0.06727565,99930,26
+8000608,DEF,Nathan Broad,Richmond,Carlton,9620,0,0,,0.037715137,99930,26
+8000921,MID,Lochie O'Brien,Carlton,Richmond,10240,0,0,,0.031854663,99930,26
+8000854,MID,Shai Bolton,Richmond,Carlton,10950,0,0,,0.034063336,99930,26
+8000509,MID,David Cuningham,Carlton,Richmond,7180,0,0,,0.022335594,99930,26
+8001384,MID,Sam Walsh,Carlton,Richmond,15150,0,0,,0.047128725,99930,26
+8000454,RK,Marc Pittonet,Carlton,Richmond,8720,0,0,,0.127971823,99930,26
+8000039,FWD,Dustin Martin,Richmond,Carlton,13330,0,0,,0.047064223,99930,26
+8001567,FWD,Noah Cumberland,Richmond,Carlton,7580,0,0,,0.026762702,99930,26
+,,,,,,,,,,,
+8000608,DEF,Nathan Broad,Richmond,Carlton,9620,0,0,,0.037715137,99040,27
+8000047,DEF,Daniel Rioli,Richmond,Carlton,12080,0,0,,0.047359548,99040,27
+8000039,MID,Dustin Martin,Richmond,Carlton,13330,0,0,,0.041467057,99040,27
+8000461,MID,Jayden Short,Richmond,Carlton,13430,0,0,,0.041778137,99040,27
+8000803,MID,Tim Taranto,Richmond,Carlton,14770,0,0,,0.045946619,99040,27
+8001378,MID,Matthew Cottrell,Carlton,Richmond,9750,0,0,,0.030330368,99040,27
+8001790,RK,Samson Ryan,Richmond,Carlton,6000,0,0,,0.088054006,99040,27
+8001381,FWD,Matthew Owies,Carlton,Richmond,7860,0,0,,0.027751298,99040,27
+8000137,FWD,Tom Lynch,Richmond,Carlton,12200,0,0,,0.043074533,99040,27
+,,,,,,,,,,,
+8000881,DEF,Nic Newman,Carlton,Richmond,12240,0,0,,0.047986827,99830,28
+8001509,DEF,Brodie Kemp,Carlton,Richmond,6120,0,0,,0.023993414,99830,28
+8002339,MID,Steely Green,Richmond,Carlton,6000,0,0,,0.018664842,99830,28
+8000039,MID,Dustin Martin,Richmond,Carlton,13330,0,0,,0.041467057,99830,28
+8000803,MID,Tim Taranto,Richmond,Carlton,14770,0,0,,0.045946619,99830,28
+8000040,MID,Kamdyn McIntosh,Richmond,Carlton,11210,0,0,,0.034872146,99830,28
+8000240,RK,Toby Nankervis,Richmond,Carlton,12090,0,0,,0.177428823,99830,28
+8000039,FWD,Dustin Martin,Richmond,Carlton,13330,0,0,,0.047064223,99830,28
+8000984,FWD,Liam Baker,Richmond,Carlton,10740,0,0,,0.037919712,99830,28
+,,,,,,,,,,,
+8001838,DEF,Domanic Akuei,Carlton,Richmond,6000,0,0,,0.023522954,99810,29
+8000147,DEF,Adam Saad,Carlton,Richmond,12780,0,0,,0.050103893,99810,29
+8000621,MID,Matthew Kennedy,Carlton,Richmond,12940,0,0,,0.040253842,99810,29
+8000004,MID,Patrick Cripps,Carlton,Richmond,15030,0,0,,0.046755428,99810,29
+8000499,MID,Jacob Hopper,Richmond,Carlton,12690,0,0,,0.03947614,99810,29
+8000461,MID,Jayden Short,Richmond,Carlton,13430,0,0,,0.041778137,99810,29
+8000454,RK,Marc Pittonet,Carlton,Richmond,8720,0,0,,0.127971823,99810,29
+8000854,FWD,Shai Bolton,Richmond,Carlton,10950,0,0,,0.038661159,99810,29
+8000567,FWD,Jason Castagna,Richmond,Carlton,7270,0,0,,0.025668185,99810,29
+,,,,,,,,,,,
+8000007,DEF,Sam Docherty,Carlton,Richmond,17160,0,0,,0.06727565,99360,30
+8000022,DEF,Jacob Weitering,Carlton,Richmond,8370,0,0,,0.032814522,99360,30
+8001896,MID,Tyler Sonsie,Richmond,Carlton,9310,0,0,,0.028961613,99360,30
+8001384,MID,Sam Walsh,Carlton,Richmond,15150,0,0,,0.047128725,99360,30
+8000499,MID,Jacob Hopper,Richmond,Carlton,12690,0,0,,0.03947614,99360,30
+8000040,MID,Kamdyn McIntosh,Richmond,Carlton,11210,0,0,,0.034872146,99360,30
+8001813,RK,Alex Mirkov,Carlton,Richmond,6000,0,0,,0.088054006,99360,30
+8000137,FWD,Tom Lynch,Richmond,Carlton,12200,0,0,,0.043074533,99360,30
+8000567,FWD,Jason Castagna,Richmond,Carlton,7270,0,0,,0.025668185,99360,30
+,,,,,,,,,,,
+8002279,DEF,Alex Cincotta,Carlton,Richmond,6000,0,0,,0.023522954,99780,31
+8000608,DEF,Nathan Broad,Richmond,Carlton,9620,0,0,,0.037715137,99780,31
+8000028,MID,Trent Cotchin,Richmond,Carlton,12670,0,0,,0.039413924,99780,31
+8000379,MID,Blake Acres,Carlton,Richmond,11720,0,0,,0.036458657,99780,31
+8001384,MID,Sam Walsh,Carlton,Richmond,15150,0,0,,0.047128725,99780,31
+8000231,MID,George Hewett,Carlton,Richmond,12880,0,0,,0.040067193,99780,31
+8000918,RK,Tom De Koning,Carlton,Richmond,9660,0,0,,0.14176695,99780,31
+8000716,FWD,Zac Fisher,Carlton,Richmond,10840,0,0,,0.038272782,99780,31
+8000723,FWD,Harry McKay,Carlton,Richmond,11240,0,0,,0.039685062,99780,31
+,,,,,,,,,,,
+8000007,DEF,Sam Docherty,Carlton,Richmond,17160,0,0,,0.06727565,100000,32
+8000167,DEF,Mitch McGovern,Carlton,Richmond,9850,0,0,,0.03861685,100000,32
+8000039,MID,Dustin Martin,Richmond,Carlton,13330,0,0,,0.041467057,100000,32
+8001378,MID,Matthew Cottrell,Carlton,Richmond,9750,0,0,,0.030330368,100000,32
+8000509,MID,David Cuningham,Carlton,Richmond,7180,0,0,,0.022335594,100000,32
+8001384,MID,Sam Walsh,Carlton,Richmond,15150,0,0,,0.047128725,100000,32
+8000240,RK,Toby Nankervis,Richmond,Carlton,12090,0,0,,0.177428823,100000,32
+8001381,FWD,Matthew Owies,Carlton,Richmond,7860,0,0,,0.027751298,100000,32
+8001732,FWD,Jack Carroll,Carlton,Richmond,7630,0,0,,0.026939237,100000,32
+,,,,,,,,,,,
+8000608,DEF,Nathan Broad,Richmond,Carlton,9620,0,0,,0.037715137,99970,33
+8000881,DEF,Nic Newman,Carlton,Richmond,12240,0,0,,0.047986827,99970,33
+8000231,MID,George Hewett,Carlton,Richmond,12880,0,0,,0.040067193,99970,33
+8002339,MID,Steely Green,Richmond,Carlton,6000,0,0,,0.018664842,99970,33
+8000004,MID,Patrick Cripps,Carlton,Richmond,15030,0,0,,0.046755428,99970,33
+8000499,MID,Jacob Hopper,Richmond,Carlton,12690,0,0,,0.03947614,99970,33
+8002283,RK,Hudson O'Keeffe,Carlton,Richmond,6000,0,0,,0.088054006,99970,33
+8000803,FWD,Tim Taranto,Richmond,Carlton,14770,0,0,,0.052148431,99970,33
+8000984,FWD,Liam Baker,Richmond,Carlton,10740,0,0,,0.037919712,99970,33
+,,,,,,,,,,,
+8000985,DEF,Noah Balta,Richmond,Carlton,7720,0,0,,0.030266201,99340,34
+8000167,DEF,Mitch McGovern,Carlton,Richmond,9850,0,0,,0.03861685,99340,34
+8001495,MID,Marlion Pickett,Richmond,Carlton,10390,0,0,,0.032321284,99340,34
+8000936,MID,Adam Cerra,Carlton,Richmond,14120,0,0,,0.043924594,99340,34
+8001384,MID,Sam Walsh,Carlton,Richmond,15150,0,0,,0.047128725,99340,34
+8000028,MID,Trent Cotchin,Richmond,Carlton,12670,0,0,,0.039413924,99340,34
+8001838,RK,Domanic Akuei,Carlton,Richmond,6000,0,0,,0.088054006,99340,34
+8000723,FWD,Harry McKay,Carlton,Richmond,11240,0,0,,0.039685062,99340,34
+8000137,FWD,Tom Lynch,Richmond,Carlton,12200,0,0,,0.043074533,99340,34
+,,,,,,,,,,,
+8000167,DEF,Mitch McGovern,Carlton,Richmond,9850,0,0,,0.03861685,99790,35
+8000608,DEF,Nathan Broad,Richmond,Carlton,9620,0,0,,0.037715137,99790,35
+8001384,MID,Sam Walsh,Carlton,Richmond,15150,0,0,,0.047128725,99790,35
+8001378,MID,Matthew Cottrell,Carlton,Richmond,9750,0,0,,0.030330368,99790,35
+8000028,MID,Trent Cotchin,Richmond,Carlton,12670,0,0,,0.039413924,99790,35
+8000461,MID,Jayden Short,Richmond,Carlton,13430,0,0,,0.041778137,99790,35
+8000454,RK,Marc Pittonet,Carlton,Richmond,8720,0,0,,0.127971823,99790,35
+8000567,FWD,Jason Castagna,Richmond,Carlton,7270,0,0,,0.025668185,99790,35
+8000039,FWD,Dustin Martin,Richmond,Carlton,13330,0,0,,0.047064223,99790,35
+,,,,,,,,,,,
+8000033,DEF,Dylan Grimes,Richmond,Carlton,7370,0,0,,0.028894029,99360,36
+8000007,DEF,Sam Docherty,Carlton,Richmond,17160,0,0,,0.06727565,99360,36
+8000006,MID,Ed Curnow,Carlton,Richmond,11870,0,0,,0.036925278,99360,36
+8000856,MID,Jack Graham,Richmond,Carlton,11040,0,0,,0.034343309,99360,36
+8001384,MID,Sam Walsh,Carlton,Richmond,15150,0,0,,0.047128725,99360,36
+8000461,MID,Jayden Short,Richmond,Carlton,13430,0,0,,0.041778137,99360,36
+8000918,RK,Tom De Koning,Carlton,Richmond,9660,0,0,,0.14176695,99360,36
+8001839,FWD,Jesse Motlop,Carlton,Richmond,6050,0,0,,0.021360732,99360,36
+8001732,FWD,Jack Carroll,Carlton,Richmond,7630,0,0,,0.026939237,99360,36
+,,,,,,,,,,,
+8000906,DEF,Lewis Young,Carlton,Richmond,8750,0,0,,0.034304309,99080,37
+8000022,DEF,Jacob Weitering,Carlton,Richmond,8370,0,0,,0.032814522,99080,37
+8000621,MID,Matthew Kennedy,Carlton,Richmond,12940,0,0,,0.040253842,99080,37
+8000006,MID,Ed Curnow,Carlton,Richmond,11870,0,0,,0.036925278,99080,37
+8001495,MID,Marlion Pickett,Richmond,Carlton,10390,0,0,,0.032321284,99080,37
+8001384,MID,Sam Walsh,Carlton,Richmond,15150,0,0,,0.047128725,99080,37
+8001813,RK,Alex Mirkov,Carlton,Richmond,6000,0,0,,0.088054006,99080,37
+8000716,FWD,Zac Fisher,Carlton,Richmond,10840,0,0,,0.038272782,99080,37
+8000803,FWD,Tim Taranto,Richmond,Carlton,14770,0,0,,0.052148431,99080,37
+,,,,,,,,,,,
+8000047,DEF,Daniel Rioli,Richmond,Carlton,12080,0,0,,0.047359548,99190,38
+8000007,DEF,Sam Docherty,Carlton,Richmond,17160,0,0,,0.06727565,99190,38
+8000006,MID,Ed Curnow,Carlton,Richmond,11870,0,0,,0.036925278,99190,38
+8000509,MID,David Cuningham,Carlton,Richmond,7180,0,0,,0.022335594,99190,38
+8000379,MID,Blake Acres,Carlton,Richmond,11720,0,0,,0.036458657,99190,38
+8000621,MID,Matthew Kennedy,Carlton,Richmond,12940,0,0,,0.040253842,99190,38
+8000918,RK,Tom De Koning,Carlton,Richmond,9660,0,0,,0.14176695,99190,38
+8001896,FWD,Tyler Sonsie,Richmond,Carlton,9310,0,0,,0.032870812,99190,38
+8000567,FWD,Jason Castagna,Richmond,Carlton,7270,0,0,,0.025668185,99190,38
+,,,,,,,,,,,
+8000099,DEF,Zac Williams,Carlton,Richmond,10870,0,0,,0.042615753,99460,39
+8002340,DEF,Kaleb Smith,Richmond,Carlton,6000,0,0,,0.023522954,99460,39
+8000803,MID,Tim Taranto,Richmond,Carlton,14770,0,0,,0.045946619,99460,39
+8000499,MID,Jacob Hopper,Richmond,Carlton,12690,0,0,,0.03947614,99460,39
+8001384,MID,Sam Walsh,Carlton,Richmond,15150,0,0,,0.047128725,99460,39
+8001378,MID,Matthew Cottrell,Carlton,Richmond,9750,0,0,,0.030330368,99460,39
+8000918,RK,Tom De Koning,Carlton,Richmond,9660,0,0,,0.14176695,99460,39
+8000723,FWD,Harry McKay,Carlton,Richmond,11240,0,0,,0.039685062,99460,39
+8000046,FWD,Jack Riewoldt,Richmond,Carlton,9330,0,0,,0.032941426,99460,39
+,,,,,,,,,,,
+8000007,DEF,Sam Docherty,Carlton,Richmond,17160,0,0,,0.06727565,99450,40
+8001788,DEF,Rhyan Mansell,Richmond,Carlton,7340,0,0,,0.028776414,99450,40
+8001384,MID,Sam Walsh,Carlton,Richmond,15150,0,0,,0.047128725,99450,40
+8000379,MID,Blake Acres,Carlton,Richmond,11720,0,0,,0.036458657,99450,40
+8002281,MID,Oliver Hollands,Carlton,Richmond,6000,0,0,,0.018664842,99450,40
+8000621,MID,Matthew Kennedy,Carlton,Richmond,12940,0,0,,0.040253842,99450,40
+8001813,RK,Alex Mirkov,Carlton,Richmond,6000,0,0,,0.088054006,99450,40
+8000005,FWD,Charlie Curnow,Carlton,Richmond,10940,0,0,,0.038625852,99450,40
+8000137,FWD,Tom Lynch,Richmond,Carlton,12200,0,0,,0.043074533,99450,40
+,,,,,,,,,,,
+8000147,DEF,Adam Saad,Carlton,Richmond,12780,0,0,,0.050103893,99160,41
+8000050,DEF,Nick Vlastuin,Richmond,Carlton,12520,0,0,,0.049084565,99160,41
+8000499,MID,Jacob Hopper,Richmond,Carlton,12690,0,0,,0.03947614,99160,41
+8000004,MID,Patrick Cripps,Carlton,Richmond,15030,0,0,,0.046755428,99160,41
+8000936,MID,Adam Cerra,Carlton,Richmond,14120,0,0,,0.043924594,99160,41
+8002281,MID,Oliver Hollands,Carlton,Richmond,6000,0,0,,0.018664842,99160,41
+8001838,RK,Domanic Akuei,Carlton,Richmond,6000,0,0,,0.088054006,99160,41
+8001378,FWD,Matthew Cottrell,Carlton,Richmond,9750,0,0,,0.034424319,99160,41
+8000637,FWD,Jack Silvagni,Carlton,Richmond,10270,0,0,,0.036260283,99160,41
+,,,,,,,,,,,
+8001838,DEF,Domanic Akuei,Carlton,Richmond,6000,0,0,,0.023522954,99920,42
+8000033,DEF,Dylan Grimes,Richmond,Carlton,7370,0,0,,0.028894029,99920,42
+8001896,MID,Tyler Sonsie,Richmond,Carlton,9310,0,0,,0.028961613,99920,42
+8000461,MID,Jayden Short,Richmond,Carlton,13430,0,0,,0.041778137,99920,42
+8000039,MID,Dustin Martin,Richmond,Carlton,13330,0,0,,0.041467057,99920,42
+8001384,MID,Sam Walsh,Carlton,Richmond,15150,0,0,,0.047128725,99920,42
+8000240,RK,Toby Nankervis,Richmond,Carlton,12090,0,0,,0.177428823,99920,42
+8000137,FWD,Tom Lynch,Richmond,Carlton,12200,0,0,,0.043074533,99920,42
+8000856,FWD,Jack Graham,Richmond,Carlton,11040,0,0,,0.038978922,99920,42
+,,,,,,,,,,,
+8000047,DEF,Daniel Rioli,Richmond,Carlton,12080,0,0,,0.047359548,100000,43
+8000099,DEF,Zac Williams,Carlton,Richmond,10870,0,0,,0.042615753,100000,43
+8000231,MID,George Hewett,Carlton,Richmond,12880,0,0,,0.040067193,100000,43
+8000461,MID,Jayden Short,Richmond,Carlton,13430,0,0,,0.041778137,100000,43
+8000621,MID,Matthew Kennedy,Carlton,Richmond,12940,0,0,,0.040253842,100000,43
+8000006,MID,Ed Curnow,Carlton,Richmond,11870,0,0,,0.036925278,100000,43
+8000918,RK,Tom De Koning,Carlton,Richmond,9660,0,0,,0.14176695,100000,43
+8000637,FWD,Jack Silvagni,Carlton,Richmond,10270,0,0,,0.036260283,100000,43
+8001790,FWD,Samson Ryan,Richmond,Carlton,6000,0,0,,0.021184197,100000,43
+,,,,,,,,,,,
+8000881,DEF,Nic Newman,Carlton,Richmond,12240,0,0,,0.047986827,99650,44
+8000050,DEF,Nick Vlastuin,Richmond,Carlton,12520,0,0,,0.049084565,99650,44
+8001384,MID,Sam Walsh,Carlton,Richmond,15150,0,0,,0.047128725,99650,44
+8000945,MID,Lachie Fogarty,Carlton,Richmond,7170,0,0,,0.022304486,99650,44
+8000040,MID,Kamdyn McIntosh,Richmond,Carlton,11210,0,0,,0.034872146,99650,44
+8000006,MID,Ed Curnow,Carlton,Richmond,11870,0,0,,0.036925278,99650,44
+8000454,RK,Marc Pittonet,Carlton,Richmond,8720,0,0,,0.127971823,99650,44
+8002337,FWD,Kaelan Bradtke,Richmond,Carlton,6000,0,0,,0.021184197,99650,44
+8000803,FWD,Tim Taranto,Richmond,Carlton,14770,0,0,,0.052148431,99650,44
+,,,,,,,,,,,
+8000881,DEF,Nic Newman,Carlton,Richmond,12240,0,0,,0.047986827,99880,45
+8001892,DEF,Sam Banks,Richmond,Carlton,6000,0,0,,0.023522954,99880,45
+8000461,MID,Jayden Short,Richmond,Carlton,13430,0,0,,0.041778137,99880,45
+8001454,MID,Jack Ross,Richmond,Carlton,9980,0,0,,0.031045853,99880,45
+8000004,MID,Patrick Cripps,Carlton,Richmond,15030,0,0,,0.046755428,99880,45
+8000936,MID,Adam Cerra,Carlton,Richmond,14120,0,0,,0.043924594,99880,45
+8001838,RK,Domanic Akuei,Carlton,Richmond,6000,0,0,,0.088054006,99880,45
+8000039,FWD,Dustin Martin,Richmond,Carlton,13330,0,0,,0.047064223,99880,45
+8001378,FWD,Matthew Cottrell,Carlton,Richmond,9750,0,0,,0.034424319,99880,45
+,,,,,,,,,,,
+8000881,DEF,Nic Newman,Carlton,Richmond,12240,0,0,,0.047986827,99340,46
+8000099,DEF,Zac Williams,Carlton,Richmond,10870,0,0,,0.042615753,99340,46
+8000039,MID,Dustin Martin,Richmond,Carlton,13330,0,0,,0.041467057,99340,46
+8000803,MID,Tim Taranto,Richmond,Carlton,14770,0,0,,0.045946619,99340,46
+8000028,MID,Trent Cotchin,Richmond,Carlton,12670,0,0,,0.039413924,99340,46
+8001896,MID,Tyler Sonsie,Richmond,Carlton,9310,0,0,,0.028961613,99340,46
+8001790,RK,Samson Ryan,Richmond,Carlton,6000,0,0,,0.088054006,99340,46
+8000716,FWD,Zac Fisher,Carlton,Richmond,10840,0,0,,0.038272782,99340,46
+8001896,FWD,Tyler Sonsie,Richmond,Carlton,9310,0,0,,0.032870812,99340,46
+,,,,,,,,,,,
+8000050,DEF,Nick Vlastuin,Richmond,Carlton,12520,0,0,,0.049084565,99010,47
+8000608,DEF,Nathan Broad,Richmond,Carlton,9620,0,0,,0.037715137,99010,47
+8000803,MID,Tim Taranto,Richmond,Carlton,14770,0,0,,0.045946619,99010,47
+8001568,MID,Thomson Dow,Richmond,Carlton,7220,0,0,,0.022460026,99010,47
+8000040,MID,Kamdyn McIntosh,Richmond,Carlton,11210,0,0,,0.034872146,99010,47
+8000144,MID,Dion Prestia,Richmond,Carlton,13300,0,0,,0.041373732,99010,47
+8001787,RK,Mate Colina,Richmond,Carlton,6000,0,0,,0.088054006,99010,47
+8000856,FWD,Jack Graham,Richmond,Carlton,11040,0,0,,0.038978922,99010,47
+8000039,FWD,Dustin Martin,Richmond,Carlton,13330,0,0,,0.047064223,99010,47
+,,,,,,,,,,,
+8000608,DEF,Nathan Broad,Richmond,Carlton,9620,0,0,,0.037715137,99750,48
+8000007,DEF,Sam Docherty,Carlton,Richmond,17160,0,0,,0.06727565,99750,48
+8000945,MID,Lachie Fogarty,Carlton,Richmond,7170,0,0,,0.022304486,99750,48
+8000144,MID,Dion Prestia,Richmond,Carlton,13300,0,0,,0.041373732,99750,48
+8001378,MID,Matthew Cottrell,Carlton,Richmond,9750,0,0,,0.030330368,99750,48
+8000039,MID,Dustin Martin,Richmond,Carlton,13330,0,0,,0.041467057,99750,48
+8000454,RK,Marc Pittonet,Carlton,Richmond,8720,0,0,,0.127971823,99750,48
+8000854,FWD,Shai Bolton,Richmond,Carlton,10950,0,0,,0.038661159,99750,48
+8001378,FWD,Matthew Cottrell,Carlton,Richmond,9750,0,0,,0.034424319,99750,48
+,,,,,,,,,,,
+8000007,DEF,Sam Docherty,Carlton,Richmond,17160,0,0,,0.06727565,99060,49
+8000050,DEF,Nick Vlastuin,Richmond,Carlton,12520,0,0,,0.049084565,99060,49
+8000856,MID,Jack Graham,Richmond,Carlton,11040,0,0,,0.034343309,99060,49
+8000509,MID,David Cuningham,Carlton,Richmond,7180,0,0,,0.022335594,99060,49
+8001378,MID,Matthew Cottrell,Carlton,Richmond,9750,0,0,,0.030330368,99060,49
+8000040,MID,Kamdyn McIntosh,Richmond,Carlton,11210,0,0,,0.034872146,99060,49
+8000240,RK,Toby Nankervis,Richmond,Carlton,12090,0,0,,0.177428823,99060,49
+8000945,FWD,Lachie Fogarty,Carlton,Richmond,7170,0,0,,0.025315115,99060,49
+8000005,FWD,Charlie Curnow,Carlton,Richmond,10940,0,0,,0.038625852,99060,49
+,,,,,,,,,,,
+8000608,DEF,Nathan Broad,Richmond,Carlton,9620,0,0,,0.037715137,99420,50
+8001893,DEF,Tom Brown,Richmond,Carlton,6000,0,0,,0.023522954,99420,50
+8000004,MID,Patrick Cripps,Carlton,Richmond,15030,0,0,,0.046755428,99420,50
+8000231,MID,George Hewett,Carlton,Richmond,12880,0,0,,0.040067193,99420,50
+8001495,MID,Marlion Pickett,Richmond,Carlton,10390,0,0,,0.032321284,99420,50
+8001384,MID,Sam Walsh,Carlton,Richmond,15150,0,0,,0.047128725,99420,50
+8000918,RK,Tom De Koning,Carlton,Richmond,9660,0,0,,0.14176695,99420,50
+8001378,FWD,Matthew Cottrell,Carlton,Richmond,9750,0,0,,0.034424319,99420,50
+8000005,FWD,Charlie Curnow,Carlton,Richmond,10940,0,0,,0.038625852,99420,50
+,,,,,,,,,,,
+8000906,DEF,Lewis Young,Carlton,Richmond,8750,0,0,,0.034304309,99680,51
+8001571,DEF,Hugo Ralphsmith,Richmond,Carlton,8180,0,0,,0.032069628,99680,51
+8000039,MID,Dustin Martin,Richmond,Carlton,13330,0,0,,0.041467057,99680,51
+8001568,MID,Thomson Dow,Richmond,Carlton,7220,0,0,,0.022460026,99680,51
+8000144,MID,Dion Prestia,Richmond,Carlton,13300,0,0,,0.041373732,99680,51
+8000803,MID,Tim Taranto,Richmond,Carlton,14770,0,0,,0.045946619,99680,51
+8000240,RK,Toby Nankervis,Richmond,Carlton,12090,0,0,,0.177428823,99680,51
+8000803,FWD,Tim Taranto,Richmond,Carlton,14770,0,0,,0.052148431,99680,51
+8000567,FWD,Jason Castagna,Richmond,Carlton,7270,0,0,,0.025668185,99680,51
+,,,,,,,,,,,
+8000984,DEF,Liam Baker,Richmond,Carlton,10740,0,0,,0.042106089,99640,52
+8001571,DEF,Hugo Ralphsmith,Richmond,Carlton,8180,0,0,,0.032069628,99640,52
+8000004,MID,Patrick Cripps,Carlton,Richmond,15030,0,0,,0.046755428,99640,52
+8000856,MID,Jack Graham,Richmond,Carlton,11040,0,0,,0.034343309,99640,52
+8000921,MID,Lochie O'Brien,Carlton,Richmond,10240,0,0,,0.031854663,99640,52
+8000936,MID,Adam Cerra,Carlton,Richmond,14120,0,0,,0.043924594,99640,52
+8000240,RK,Toby Nankervis,Richmond,Carlton,12090,0,0,,0.177428823,99640,52
+8002278,FWD,Jaxon Binns,Carlton,Richmond,6000,0,0,,0.021184197,99640,52
+8000137,FWD,Tom Lynch,Richmond,Carlton,12200,0,0,,0.043074533,99640,52
+,,,,,,,,,,,
+8000984,DEF,Liam Baker,Richmond,Carlton,10740,0,0,,0.042106089,99930,53
+8000881,DEF,Nic Newman,Carlton,Richmond,12240,0,0,,0.047986827,99930,53
+8000854,MID,Shai Bolton,Richmond,Carlton,10950,0,0,,0.034063336,99930,53
+8000006,MID,Ed Curnow,Carlton,Richmond,11870,0,0,,0.036925278,99930,53
+8001378,MID,Matthew Cottrell,Carlton,Richmond,9750,0,0,,0.030330368,99930,53
+8000803,MID,Tim Taranto,Richmond,Carlton,14770,0,0,,0.045946619,99930,53
+8000857,RK,Ivan Soldo,Richmond,Carlton,7670,0,0,,0.112562372,99930,53
+8000803,FWD,Tim Taranto,Richmond,Carlton,14770,0,0,,0.052148431,99930,53
+8000945,FWD,Lachie Fogarty,Carlton,Richmond,7170,0,0,,0.025315115,99930,53
+,,,,,,,,,,,
+8000984,DEF,Liam Baker,Richmond,Carlton,10740,0,0,,0.042106089,99160,54
+8001895,DEF,Josh Gibcus,Richmond,Carlton,6500,0,0,,0.025483201,99160,54
+8001378,MID,Matthew Cottrell,Carlton,Richmond,9750,0,0,,0.030330368,99160,54
+8000028,MID,Trent Cotchin,Richmond,Carlton,12670,0,0,,0.039413924,99160,54
+8000461,MID,Jayden Short,Richmond,Carlton,13430,0,0,,0.041778137,99160,54
+8000856,MID,Jack Graham,Richmond,Carlton,11040,0,0,,0.034343309,99160,54
+8000240,RK,Toby Nankervis,Richmond,Carlton,12090,0,0,,0.177428823,99160,54
+8000137,FWD,Tom Lynch,Richmond,Carlton,12200,0,0,,0.043074533,99160,54
+8000984,FWD,Liam Baker,Richmond,Carlton,10740,0,0,,0.037919712,99160,54
+,,,,,,,,,,,
+8000533,DEF,Lachie Plowman,Carlton,Richmond,7560,0,0,,0.029638923,99410,55
+8000007,DEF,Sam Docherty,Carlton,Richmond,17160,0,0,,0.06727565,99410,55
+8000006,MID,Ed Curnow,Carlton,Richmond,11870,0,0,,0.036925278,99410,55
+8001892,MID,Sam Banks,Richmond,Carlton,6000,0,0,,0.018664842,99410,55
+8000231,MID,George Hewett,Carlton,Richmond,12880,0,0,,0.040067193,99410,55
+8000856,MID,Jack Graham,Richmond,Carlton,11040,0,0,,0.034343309,99410,55
+8000918,RK,Tom De Koning,Carlton,Richmond,9660,0,0,,0.14176695,99410,55
+8000137,FWD,Tom Lynch,Richmond,Carlton,12200,0,0,,0.043074533,99410,55
+8000856,FWD,Jack Graham,Richmond,Carlton,11040,0,0,,0.038978922,99410,55
+,,,,,,,,,,,
+8000881,DEF,Nic Newman,Carlton,Richmond,12240,0,0,,0.047986827,99070,56
+8000906,DEF,Lewis Young,Carlton,Richmond,8750,0,0,,0.034304309,99070,56
+8000039,MID,Dustin Martin,Richmond,Carlton,13330,0,0,,0.041467057,99070,56
+8000040,MID,Kamdyn McIntosh,Richmond,Carlton,11210,0,0,,0.034872146,99070,56
+8000379,MID,Blake Acres,Carlton,Richmond,11720,0,0,,0.036458657,99070,56
+8000006,MID,Ed Curnow,Carlton,Richmond,11870,0,0,,0.036925278,99070,56
+8000857,RK,Ivan Soldo,Richmond,Carlton,7670,0,0,,0.112562372,99070,56
+8000856,FWD,Jack Graham,Richmond,Carlton,11040,0,0,,0.038978922,99070,56
+8000723,FWD,Harry McKay,Carlton,Richmond,11240,0,0,,0.039685062,99070,56
+,,,,,,,,,,,
+8001571,DEF,Hugo Ralphsmith,Richmond,Carlton,8180,0,0,,0.032069628,99800,57
+8000099,DEF,Zac Williams,Carlton,Richmond,10870,0,0,,0.042615753,99800,57
+8000936,MID,Adam Cerra,Carlton,Richmond,14120,0,0,,0.043924594,99800,57
+8001378,MID,Matthew Cottrell,Carlton,Richmond,9750,0,0,,0.030330368,99800,57
+8000028,MID,Trent Cotchin,Richmond,Carlton,12670,0,0,,0.039413924,99800,57
+8000006,MID,Ed Curnow,Carlton,Richmond,11870,0,0,,0.036925278,99800,57
+8000918,RK,Tom De Koning,Carlton,Richmond,9660,0,0,,0.14176695,99800,57
+8000803,FWD,Tim Taranto,Richmond,Carlton,14770,0,0,,0.052148431,99800,57
+8000139,FWD,Jack Martin,Carlton,Richmond,7910,0,0,,0.027927833,99800,57
+,,,,,,,,,,,
+8002279,DEF,Alex Cincotta,Carlton,Richmond,6000,0,0,,0.023522954,99880,58
+8000007,DEF,Sam Docherty,Carlton,Richmond,17160,0,0,,0.06727565,99880,58
+8000803,MID,Tim Taranto,Richmond,Carlton,14770,0,0,,0.045946619,99880,58
+8000945,MID,Lachie Fogarty,Carlton,Richmond,7170,0,0,,0.022304486,99880,58
+8000028,MID,Trent Cotchin,Richmond,Carlton,12670,0,0,,0.039413924,99880,58
+8000936,MID,Adam Cerra,Carlton,Richmond,14120,0,0,,0.043924594,99880,58
+8001787,RK,Mate Colina,Richmond,Carlton,6000,0,0,,0.088054006,99880,58
+8000854,FWD,Shai Bolton,Richmond,Carlton,10950,0,0,,0.038661159,99880,58
+8000856,FWD,Jack Graham,Richmond,Carlton,11040,0,0,,0.038978922,99880,58
+,,,,,,,,,,,
+8000147,DEF,Adam Saad,Carlton,Richmond,12780,0,0,,0.050103893,99940,59
+8000099,DEF,Zac Williams,Carlton,Richmond,10870,0,0,,0.042615753,99940,59
+8000039,MID,Dustin Martin,Richmond,Carlton,13330,0,0,,0.041467057,99940,59
+8000461,MID,Jayden Short,Richmond,Carlton,13430,0,0,,0.041778137,99940,59
+8000379,MID,Blake Acres,Carlton,Richmond,11720,0,0,,0.036458657,99940,59
+8000856,MID,Jack Graham,Richmond,Carlton,11040,0,0,,0.034343309,99940,59
+8001790,RK,Samson Ryan,Richmond,Carlton,6000,0,0,,0.088054006,99940,59
+8002282,FWD,Harry Lemmey,Carlton,Richmond,6000,0,0,,0.021184197,99940,59
+8000803,FWD,Tim Taranto,Richmond,Carlton,14770,0,0,,0.052148431,99940,59
+,,,,,,,,,,,
+8001838,DEF,Domanic Akuei,Carlton,Richmond,6000,0,0,,0.023522954,99750,60
+8000608,DEF,Nathan Broad,Richmond,Carlton,9620,0,0,,0.037715137,99750,60
+8000039,MID,Dustin Martin,Richmond,Carlton,13330,0,0,,0.041467057,99750,60
+8001896,MID,Tyler Sonsie,Richmond,Carlton,9310,0,0,,0.028961613,99750,60
+8001384,MID,Sam Walsh,Carlton,Richmond,15150,0,0,,0.047128725,99750,60
+8000621,MID,Matthew Kennedy,Carlton,Richmond,12940,0,0,,0.040253842,99750,60
+8000240,RK,Toby Nankervis,Richmond,Carlton,12090,0,0,,0.177428823,99750,60
+8000637,FWD,Jack Silvagni,Carlton,Richmond,10270,0,0,,0.036260283,99750,60
+8000856,FWD,Jack Graham,Richmond,Carlton,11040,0,0,,0.038978922,99750,60
+,,,,,,,,,,,
+8000050,DEF,Nick Vlastuin,Richmond,Carlton,12520,0,0,,0.049084565,99990,61
+8002280,DEF,Lachlan Cowan,Carlton,Richmond,6000,0,0,,0.023522954,99990,61
+8001384,MID,Sam Walsh,Carlton,Richmond,15150,0,0,,0.047128725,99990,61
+8001378,MID,Matthew Cottrell,Carlton,Richmond,9750,0,0,,0.030330368,99990,61
+8000621,MID,Matthew Kennedy,Carlton,Richmond,12940,0,0,,0.040253842,99990,61
+8000461,MID,Jayden Short,Richmond,Carlton,13430,0,0,,0.041778137,99990,61
+8000240,RK,Toby Nankervis,Richmond,Carlton,12090,0,0,,0.177428823,99990,61
+8000567,FWD,Jason Castagna,Richmond,Carlton,7270,0,0,,0.025668185,99990,61
+8000716,FWD,Zac Fisher,Carlton,Richmond,10840,0,0,,0.038272782,99990,61
+,,,,,,,,,,,
+8000906,DEF,Lewis Young,Carlton,Richmond,8750,0,0,,0.034304309,99380,62
+8001571,DEF,Hugo Ralphsmith,Richmond,Carlton,8180,0,0,,0.032069628,99380,62
+8000936,MID,Adam Cerra,Carlton,Richmond,14120,0,0,,0.043924594,99380,62
+8000040,MID,Kamdyn McIntosh,Richmond,Carlton,11210,0,0,,0.034872146,99380,62
+8001378,MID,Matthew Cottrell,Carlton,Richmond,9750,0,0,,0.030330368,99380,62
+8000039,MID,Dustin Martin,Richmond,Carlton,13330,0,0,,0.041467057,99380,62
+8000240,RK,Toby Nankervis,Richmond,Carlton,12090,0,0,,0.177428823,99380,62
+8000509,FWD,David Cuningham,Carlton,Richmond,7180,0,0,,0.025350422,99380,62
+8000803,FWD,Tim Taranto,Richmond,Carlton,14770,0,0,,0.052148431,99380,62
+,,,,,,,,,,,
+8000989,DEF,Ben Miller,Richmond,Carlton,6920,0,0,,0.027129808,99570,63
+8001509,DEF,Brodie Kemp,Carlton,Richmond,6120,0,0,,0.023993414,99570,63
+8000004,MID,Patrick Cripps,Carlton,Richmond,15030,0,0,,0.046755428,99570,63
+8000854,MID,Shai Bolton,Richmond,Carlton,10950,0,0,,0.034063336,99570,63
+8000039,MID,Dustin Martin,Richmond,Carlton,13330,0,0,,0.041467057,99570,63
+8000936,MID,Adam Cerra,Carlton,Richmond,14120,0,0,,0.043924594,99570,63
+8000240,RK,Toby Nankervis,Richmond,Carlton,12090,0,0,,0.177428823,99570,63
+8000984,FWD,Liam Baker,Richmond,Carlton,10740,0,0,,0.037919712,99570,63
+8000637,FWD,Jack Silvagni,Carlton,Richmond,10270,0,0,,0.036260283,99570,63
+,,,,,,,,,,,
+8000007,DEF,Sam Docherty,Carlton,Richmond,17160,0,0,,0.06727565,99230,64
+8002280,DEF,Lachlan Cowan,Carlton,Richmond,6000,0,0,,0.023522954,99230,64
+8000499,MID,Jacob Hopper,Richmond,Carlton,12690,0,0,,0.03947614,99230,64
+8000039,MID,Dustin Martin,Richmond,Carlton,13330,0,0,,0.041467057,99230,64
+8000006,MID,Ed Curnow,Carlton,Richmond,11870,0,0,,0.036925278,99230,64
+8000461,MID,Jayden Short,Richmond,Carlton,13430,0,0,,0.041778137,99230,64
+8001790,RK,Samson Ryan,Richmond,Carlton,6000,0,0,,0.088054006,99230,64
+8000139,FWD,Jack Martin,Carlton,Richmond,7910,0,0,,0.027927833,99230,64
+8000716,FWD,Zac Fisher,Carlton,Richmond,10840,0,0,,0.038272782,99230,64
+,,,,,,,,,,,
+8001892,DEF,Sam Banks,Richmond,Carlton,6000,0,0,,0.023522954,99540,65
+8000881,DEF,Nic Newman,Carlton,Richmond,12240,0,0,,0.047986827,99540,65
+8000921,MID,Lochie O'Brien,Carlton,Richmond,10240,0,0,,0.031854663,99540,65
+8000499,MID,Jacob Hopper,Richmond,Carlton,12690,0,0,,0.03947614,99540,65
+8001384,MID,Sam Walsh,Carlton,Richmond,15150,0,0,,0.047128725,99540,65
+8000040,MID,Kamdyn McIntosh,Richmond,Carlton,11210,0,0,,0.034872146,99540,65
+8001838,RK,Domanic Akuei,Carlton,Richmond,6000,0,0,,0.088054006,99540,65
+8000723,FWD,Harry McKay,Carlton,Richmond,11240,0,0,,0.039685062,99540,65
+8000803,FWD,Tim Taranto,Richmond,Carlton,14770,0,0,,0.052148431,99540,65
+,,,,,,,,,,,
+8001895,DEF,Josh Gibcus,Richmond,Carlton,6500,0,0,,0.025483201,99530,66
+8000147,DEF,Adam Saad,Carlton,Richmond,12780,0,0,,0.050103893,99530,66
+8001495,MID,Marlion Pickett,Richmond,Carlton,10390,0,0,,0.032321284,99530,66
+8001378,MID,Matthew Cottrell,Carlton,Richmond,9750,0,0,,0.030330368,99530,66
+8000936,MID,Adam Cerra,Carlton,Richmond,14120,0,0,,0.043924594,99530,66
+8000379,MID,Blake Acres,Carlton,Richmond,11720,0,0,,0.036458657,99530,66
+8000240,RK,Toby Nankervis,Richmond,Carlton,12090,0,0,,0.177428823,99530,66
+8000005,FWD,Charlie Curnow,Carlton,Richmond,10940,0,0,,0.038625852,99530,66
+8000723,FWD,Harry McKay,Carlton,Richmond,11240,0,0,,0.039685062,99530,66
+,,,,,,,,,,,
+8000007,DEF,Sam Docherty,Carlton,Richmond,17160,0,0,,0.06727565,99490,67
+8000906,DEF,Lewis Young,Carlton,Richmond,8750,0,0,,0.034304309,99490,67
+8000004,MID,Patrick Cripps,Carlton,Richmond,15030,0,0,,0.046755428,99490,67
+8000379,MID,Blake Acres,Carlton,Richmond,11720,0,0,,0.036458657,99490,67
+8000040,MID,Kamdyn McIntosh,Richmond,Carlton,11210,0,0,,0.034872146,99490,67
+8000509,MID,David Cuningham,Carlton,Richmond,7180,0,0,,0.022335594,99490,67
+8000857,RK,Ivan Soldo,Richmond,Carlton,7670,0,0,,0.112562372,99490,67
+8001894,FWD,Judson Clarke,Richmond,Carlton,6000,0,0,,0.021184197,99490,67
+8000803,FWD,Tim Taranto,Richmond,Carlton,14770,0,0,,0.052148431,99490,67
+,,,,,,,,,,,
+8000050,DEF,Nick Vlastuin,Richmond,Carlton,12520,0,0,,0.049084565,99250,68
+8000047,DEF,Daniel Rioli,Richmond,Carlton,12080,0,0,,0.047359548,99250,68
+8000231,MID,George Hewett,Carlton,Richmond,12880,0,0,,0.040067193,99250,68
+8002278,MID,Jaxon Binns,Carlton,Richmond,6000,0,0,,0.018664842,99250,68
+8000144,MID,Dion Prestia,Richmond,Carlton,13300,0,0,,0.041373732,99250,68
+8000936,MID,Adam Cerra,Carlton,Richmond,14120,0,0,,0.043924594,99250,68
+8001790,RK,Samson Ryan,Richmond,Carlton,6000,0,0,,0.088054006,99250,68
+8000803,FWD,Tim Taranto,Richmond,Carlton,14770,0,0,,0.052148431,99250,68
+8001567,FWD,Noah Cumberland,Richmond,Carlton,7580,0,0,,0.026762702,99250,68
+,,,,,,,,,,,
+8000099,DEF,Zac Williams,Carlton,Richmond,10870,0,0,,0.042615753,99570,69
+8000022,DEF,Jacob Weitering,Carlton,Richmond,8370,0,0,,0.032814522,99570,69
+8000231,MID,George Hewett,Carlton,Richmond,12880,0,0,,0.040067193,99570,69
+8000854,MID,Shai Bolton,Richmond,Carlton,10950,0,0,,0.034063336,99570,69
+8001896,MID,Tyler Sonsie,Richmond,Carlton,9310,0,0,,0.028961613,99570,69
+8000379,MID,Blake Acres,Carlton,Richmond,11720,0,0,,0.036458657,99570,69
+8000918,RK,Tom De Koning,Carlton,Richmond,9660,0,0,,0.14176695,99570,69
+8000856,FWD,Jack Graham,Richmond,Carlton,11040,0,0,,0.038978922,99570,69
+8000803,FWD,Tim Taranto,Richmond,Carlton,14770,0,0,,0.052148431,99570,69
+,,,,,,,,,,,
+8000881,DEF,Nic Newman,Carlton,Richmond,12240,0,0,,0.047986827,99310,70
+8000533,DEF,Lachie Plowman,Carlton,Richmond,7560,0,0,,0.029638923,99310,70
+8000499,MID,Jacob Hopper,Richmond,Carlton,12690,0,0,,0.03947614,99310,70
+8000803,MID,Tim Taranto,Richmond,Carlton,14770,0,0,,0.045946619,99310,70
+8001495,MID,Marlion Pickett,Richmond,Carlton,10390,0,0,,0.032321284,99310,70
+8000028,MID,Trent Cotchin,Richmond,Carlton,12670,0,0,,0.039413924,99310,70
+8000918,RK,Tom De Koning,Carlton,Richmond,9660,0,0,,0.14176695,99310,70
+8000039,FWD,Dustin Martin,Richmond,Carlton,13330,0,0,,0.047064223,99310,70
+8002337,FWD,Kaelan Bradtke,Richmond,Carlton,6000,0,0,,0.021184197,99310,70
+,,,,,,,,,,,
+8000047,DEF,Daniel Rioli,Richmond,Carlton,12080,0,0,,0.047359548,99620,71
+8002280,DEF,Lachlan Cowan,Carlton,Richmond,6000,0,0,,0.023522954,99620,71
+8001384,MID,Sam Walsh,Carlton,Richmond,15150,0,0,,0.047128725,99620,71
+8000936,MID,Adam Cerra,Carlton,Richmond,14120,0,0,,0.043924594,99620,71
+8000621,MID,Matthew Kennedy,Carlton,Richmond,12940,0,0,,0.040253842,99620,71
+8000144,MID,Dion Prestia,Richmond,Carlton,13300,0,0,,0.041373732,99620,71
+8000240,RK,Toby Nankervis,Richmond,Carlton,12090,0,0,,0.177428823,99620,71
+8001381,FWD,Matthew Owies,Carlton,Richmond,7860,0,0,,0.027751298,99620,71
+8001789,FWD,Maurice Rioli,Richmond,Carlton,6080,0,0,,0.021466653,99620,71
+,,,,,,,,,,,
+8000828,DEF,Sam Durdin,Carlton,Richmond,6000,0,0,,0.023522954,99600,72
+8000007,DEF,Sam Docherty,Carlton,Richmond,17160,0,0,,0.06727565,99600,72
+8000936,MID,Adam Cerra,Carlton,Richmond,14120,0,0,,0.043924594,99600,72
+8000144,MID,Dion Prestia,Richmond,Carlton,13300,0,0,,0.041373732,99600,72
+8000854,MID,Shai Bolton,Richmond,Carlton,10950,0,0,,0.034063336,99600,72
+8001495,MID,Marlion Pickett,Richmond,Carlton,10390,0,0,,0.032321284,99600,72
+8001813,RK,Alex Mirkov,Carlton,Richmond,6000,0,0,,0.088054006,99600,72
+8000005,FWD,Charlie Curnow,Carlton,Richmond,10940,0,0,,0.038625852,99600,72
+8000984,FWD,Liam Baker,Richmond,Carlton,10740,0,0,,0.037919712,99600,72
+,,,,,,,,,,,
+8000050,DEF,Nick Vlastuin,Richmond,Carlton,12520,0,0,,0.049084565,99020,73
+8000881,DEF,Nic Newman,Carlton,Richmond,12240,0,0,,0.047986827,99020,73
+8000039,MID,Dustin Martin,Richmond,Carlton,13330,0,0,,0.041467057,99020,73
+8000231,MID,George Hewett,Carlton,Richmond,12880,0,0,,0.040067193,99020,73
+8000621,MID,Matthew Kennedy,Carlton,Richmond,12940,0,0,,0.040253842,99020,73
+8000006,MID,Ed Curnow,Carlton,Richmond,11870,0,0,,0.036925278,99020,73
+8001838,RK,Domanic Akuei,Carlton,Richmond,6000,0,0,,0.088054006,99020,73
+8000723,FWD,Harry McKay,Carlton,Richmond,11240,0,0,,0.039685062,99020,73
+8001508,FWD,Josh Honey,Carlton,Richmond,6000,0,0,,0.021184197,99020,73
+,,,,,,,,,,,
+8001571,DEF,Hugo Ralphsmith,Richmond,Carlton,8180,0,0,,0.032069628,99870,74
+8000167,DEF,Mitch McGovern,Carlton,Richmond,9850,0,0,,0.03861685,99870,74
+8000803,MID,Tim Taranto,Richmond,Carlton,14770,0,0,,0.045946619,99870,74
+8000231,MID,George Hewett,Carlton,Richmond,12880,0,0,,0.040067193,99870,74
+8002339,MID,Steely Green,Richmond,Carlton,6000,0,0,,0.018664842,99870,74
+8000936,MID,Adam Cerra,Carlton,Richmond,14120,0,0,,0.043924594,99870,74
+8000240,RK,Toby Nankervis,Richmond,Carlton,12090,0,0,,0.177428823,99870,74
+8000984,FWD,Liam Baker,Richmond,Carlton,10740,0,0,,0.037919712,99870,74
+8000723,FWD,Harry McKay,Carlton,Richmond,11240,0,0,,0.039685062,99870,74
+,,,,,,,,,,,
+8000881,DEF,Nic Newman,Carlton,Richmond,12240,0,0,,0.047986827,99020,75
+8000193,DEF,Robbie Tarrant,Richmond,Carlton,6000,0,0,,0.023522954,99020,75
+8001378,MID,Matthew Cottrell,Carlton,Richmond,9750,0,0,,0.030330368,99020,75
+8000379,MID,Blake Acres,Carlton,Richmond,11720,0,0,,0.036458657,99020,75
+8000004,MID,Patrick Cripps,Carlton,Richmond,15030,0,0,,0.046755428,99020,75
+8000028,MID,Trent Cotchin,Richmond,Carlton,12670,0,0,,0.039413924,99020,75
+8000918,RK,Tom De Koning,Carlton,Richmond,9660,0,0,,0.14176695,99020,75
+8001378,FWD,Matthew Cottrell,Carlton,Richmond,9750,0,0,,0.034424319,99020,75
+8000137,FWD,Tom Lynch,Richmond,Carlton,12200,0,0,,0.043074533,99020,75
+,,,,,,,,,,,
+8000050,DEF,Nick Vlastuin,Richmond,Carlton,12520,0,0,,0.049084565,99410,76
+8001812,DEF,Jordan Boyd,Carlton,Richmond,6380,0,0,,0.025012742,99410,76
+8000499,MID,Jacob Hopper,Richmond,Carlton,12690,0,0,,0.03947614,99410,76
+8000936,MID,Adam Cerra,Carlton,Richmond,14120,0,0,,0.043924594,99410,76
+8000039,MID,Dustin Martin,Richmond,Carlton,13330,0,0,,0.041467057,99410,76
+8000461,MID,Jayden Short,Richmond,Carlton,13430,0,0,,0.041778137,99410,76
+8000240,RK,Toby Nankervis,Richmond,Carlton,12090,0,0,,0.177428823,99410,76
+8000567,FWD,Jason Castagna,Richmond,Carlton,7270,0,0,,0.025668185,99410,76
+8001567,FWD,Noah Cumberland,Richmond,Carlton,7580,0,0,,0.026762702,99410,76
+,,,,,,,,,,,
+8000050,DEF,Nick Vlastuin,Richmond,Carlton,12520,0,0,,0.049084565,99130,77
+8000906,DEF,Lewis Young,Carlton,Richmond,8750,0,0,,0.034304309,99130,77
+8000004,MID,Patrick Cripps,Carlton,Richmond,15030,0,0,,0.046755428,99130,77
+8001896,MID,Tyler Sonsie,Richmond,Carlton,9310,0,0,,0.028961613,99130,77
+8000231,MID,George Hewett,Carlton,Richmond,12880,0,0,,0.040067193,99130,77
+8000803,MID,Tim Taranto,Richmond,Carlton,14770,0,0,,0.045946619,99130,77
+8000857,RK,Ivan Soldo,Richmond,Carlton,7670,0,0,,0.112562372,99130,77
+8000137,FWD,Tom Lynch,Richmond,Carlton,12200,0,0,,0.043074533,99130,77
+8001733,FWD,Corey Durdin,Carlton,Richmond,6000,0,0,,0.021184197,99130,77
+,,,,,,,,,,,
+8002340,DEF,Kaleb Smith,Richmond,Carlton,6000,0,0,,0.023522954,99970,78
+8000007,DEF,Sam Docherty,Carlton,Richmond,17160,0,0,,0.06727565,99970,78
+8000856,MID,Jack Graham,Richmond,Carlton,11040,0,0,,0.034343309,99970,78
+8000039,MID,Dustin Martin,Richmond,Carlton,13330,0,0,,0.041467057,99970,78
+8000004,MID,Patrick Cripps,Carlton,Richmond,15030,0,0,,0.046755428,99970,78
+8000621,MID,Matthew Kennedy,Carlton,Richmond,12940,0,0,,0.040253842,99970,78
+8000454,RK,Marc Pittonet,Carlton,Richmond,8720,0,0,,0.127971823,99970,78
+8001378,FWD,Matthew Cottrell,Carlton,Richmond,9750,0,0,,0.034424319,99970,78
+8002337,FWD,Kaelan Bradtke,Richmond,Carlton,6000,0,0,,0.021184197,99970,78
+,,,,,,,,,,,
+8000147,DEF,Adam Saad,Carlton,Richmond,12780,0,0,,0.050103893,99010,79
+8000906,DEF,Lewis Young,Carlton,Richmond,8750,0,0,,0.034304309,99010,79
+8001384,MID,Sam Walsh,Carlton,Richmond,15150,0,0,,0.047128725,99010,79
+8000499,MID,Jacob Hopper,Richmond,Carlton,12690,0,0,,0.03947614,99010,79
+8000856,MID,Jack Graham,Richmond,Carlton,11040,0,0,,0.034343309,99010,79
+8000621,MID,Matthew Kennedy,Carlton,Richmond,12940,0,0,,0.040253842,99010,79
+8000454,RK,Marc Pittonet,Carlton,Richmond,8720,0,0,,0.127971823,99010,79
+8001896,FWD,Tyler Sonsie,Richmond,Carlton,9310,0,0,,0.032870812,99010,79
+8001732,FWD,Jack Carroll,Carlton,Richmond,7630,0,0,,0.026939237,99010,79
+,,,,,,,,,,,
+8000881,DEF,Nic Newman,Carlton,Richmond,12240,0,0,,0.047986827,99570,80
+8001509,DEF,Brodie Kemp,Carlton,Richmond,6120,0,0,,0.023993414,99570,80
+8001384,MID,Sam Walsh,Carlton,Richmond,15150,0,0,,0.047128725,99570,80
+8001568,MID,Thomson Dow,Richmond,Carlton,7220,0,0,,0.022460026,99570,80
+8000803,MID,Tim Taranto,Richmond,Carlton,14770,0,0,,0.045946619,99570,80
+8000004,MID,Patrick Cripps,Carlton,Richmond,15030,0,0,,0.046755428,99570,80
+8002283,RK,Hudson O'Keeffe,Carlton,Richmond,6000,0,0,,0.088054006,99570,80
+8000716,FWD,Zac Fisher,Carlton,Richmond,10840,0,0,,0.038272782,99570,80
+8000137,FWD,Tom Lynch,Richmond,Carlton,12200,0,0,,0.043074533,99570,80
+,,,,,,,,,,,
+8000147,DEF,Adam Saad,Carlton,Richmond,12780,0,0,,0.050103893,99140,81
+8000608,DEF,Nathan Broad,Richmond,Carlton,9620,0,0,,0.037715137,99140,81
+8001454,MID,Jack Ross,Richmond,Carlton,9980,0,0,,0.031045853,99140,81
+8001378,MID,Matthew Cottrell,Carlton,Richmond,9750,0,0,,0.030330368,99140,81
+8000004,MID,Patrick Cripps,Carlton,Richmond,15030,0,0,,0.046755428,99140,81
+8000144,MID,Dion Prestia,Richmond,Carlton,13300,0,0,,0.041373732,99140,81
+8002283,RK,Hudson O'Keeffe,Carlton,Richmond,6000,0,0,,0.088054006,99140,81
+8000803,FWD,Tim Taranto,Richmond,Carlton,14770,0,0,,0.052148431,99140,81
+8000139,FWD,Jack Martin,Carlton,Richmond,7910,0,0,,0.027927833,99140,81
+,,,,,,,,,,,
+8001812,DEF,Jordan Boyd,Carlton,Richmond,6380,0,0,,0.025012742,99710,82
+8000985,DEF,Noah Balta,Richmond,Carlton,7720,0,0,,0.030266201,99710,82
+8000006,MID,Ed Curnow,Carlton,Richmond,11870,0,0,,0.036925278,99710,82
+8000028,MID,Trent Cotchin,Richmond,Carlton,12670,0,0,,0.039413924,99710,82
+8000039,MID,Dustin Martin,Richmond,Carlton,13330,0,0,,0.041467057,99710,82
+8000803,MID,Tim Taranto,Richmond,Carlton,14770,0,0,,0.045946619,99710,82
+8001813,RK,Alex Mirkov,Carlton,Richmond,6000,0,0,,0.088054006,99710,82
+8000803,FWD,Tim Taranto,Richmond,Carlton,14770,0,0,,0.052148431,99710,82
+8000137,FWD,Tom Lynch,Richmond,Carlton,12200,0,0,,0.043074533,99710,82
+,,,,,,,,,,,
+8000007,DEF,Sam Docherty,Carlton,Richmond,17160,0,0,,0.06727565,99830,83
+8000608,DEF,Nathan Broad,Richmond,Carlton,9620,0,0,,0.037715137,99830,83
+8001495,MID,Marlion Pickett,Richmond,Carlton,10390,0,0,,0.032321284,99830,83
+8000144,MID,Dion Prestia,Richmond,Carlton,13300,0,0,,0.041373732,99830,83
+8001511,MID,Sam Philp,Carlton,Richmond,6000,0,0,,0.018664842,99830,83
+8000936,MID,Adam Cerra,Carlton,Richmond,14120,0,0,,0.043924594,99830,83
+8001790,RK,Samson Ryan,Richmond,Carlton,6000,0,0,,0.088054006,99830,83
+8000137,FWD,Tom Lynch,Richmond,Carlton,12200,0,0,,0.043074533,99830,83
+8000856,FWD,Jack Graham,Richmond,Carlton,11040,0,0,,0.038978922,99830,83
+,,,,,,,,,,,
+8000022,DEF,Jacob Weitering,Carlton,Richmond,8370,0,0,,0.032814522,99370,84
+8000881,DEF,Nic Newman,Carlton,Richmond,12240,0,0,,0.047986827,99370,84
+8000028,MID,Trent Cotchin,Richmond,Carlton,12670,0,0,,0.039413924,99370,84
+8000921,MID,Lochie O'Brien,Carlton,Richmond,10240,0,0,,0.031854663,99370,84
+8000231,MID,George Hewett,Carlton,Richmond,12880,0,0,,0.040067193,99370,84
+8000499,MID,Jacob Hopper,Richmond,Carlton,12690,0,0,,0.03947614,99370,84
+8001790,RK,Samson Ryan,Richmond,Carlton,6000,0,0,,0.088054006,99370,84
+8000854,FWD,Shai Bolton,Richmond,Carlton,10950,0,0,,0.038661159,99370,84
+8000039,FWD,Dustin Martin,Richmond,Carlton,13330,0,0,,0.047064223,99370,84
+,,,,,,,,,,,
+8000989,DEF,Ben Miller,Richmond,Carlton,6920,0,0,,0.027129808,99380,85
+8000022,DEF,Jacob Weitering,Carlton,Richmond,8370,0,0,,0.032814522,99380,85
+8000499,MID,Jacob Hopper,Richmond,Carlton,12690,0,0,,0.03947614,99380,85
+8000621,MID,Matthew Kennedy,Carlton,Richmond,12940,0,0,,0.040253842,99380,85
+8000004,MID,Patrick Cripps,Carlton,Richmond,15030,0,0,,0.046755428,99380,85
+8000803,MID,Tim Taranto,Richmond,Carlton,14770,0,0,,0.045946619,99380,85
+8001787,RK,Mate Colina,Richmond,Carlton,6000,0,0,,0.088054006,99380,85
+8000039,FWD,Dustin Martin,Richmond,Carlton,13330,0,0,,0.047064223,99380,85
+8000046,FWD,Jack Riewoldt,Richmond,Carlton,9330,0,0,,0.032941426,99380,85
+,,,,,,,,,,,
+8000087,DEF,Caleb Marchbank,Carlton,Richmond,6000,0,0,,0.023522954,99990,86
+8000881,DEF,Nic Newman,Carlton,Richmond,12240,0,0,,0.047986827,99990,86
+8000231,MID,George Hewett,Carlton,Richmond,12880,0,0,,0.040067193,99990,86
+8000621,MID,Matthew Kennedy,Carlton,Richmond,12940,0,0,,0.040253842,99990,86
+8000803,MID,Tim Taranto,Richmond,Carlton,14770,0,0,,0.045946619,99990,86
+8000919,MID,Paddy Dow,Carlton,Richmond,7120,0,0,,0.022148945,99990,86
+8000240,RK,Toby Nankervis,Richmond,Carlton,12090,0,0,,0.177428823,99990,86
+8000509,FWD,David Cuningham,Carlton,Richmond,7180,0,0,,0.025350422,99990,86
+8000803,FWD,Tim Taranto,Richmond,Carlton,14770,0,0,,0.052148431,99990,86
+,,,,,,,,,,,
+8000881,DEF,Nic Newman,Carlton,Richmond,12240,0,0,,0.047986827,99680,87
+8000099,DEF,Zac Williams,Carlton,Richmond,10870,0,0,,0.042615753,99680,87
+8000856,MID,Jack Graham,Richmond,Carlton,11040,0,0,,0.034343309,99680,87
+8001896,MID,Tyler Sonsie,Richmond,Carlton,9310,0,0,,0.028961613,99680,87
+8000803,MID,Tim Taranto,Richmond,Carlton,14770,0,0,,0.045946619,99680,87
+8000854,MID,Shai Bolton,Richmond,Carlton,10950,0,0,,0.034063336,99680,87
+8000454,RK,Marc Pittonet,Carlton,Richmond,8720,0,0,,0.127971823,99680,87
+8000005,FWD,Charlie Curnow,Carlton,Richmond,10940,0,0,,0.038625852,99680,87
+8000716,FWD,Zac Fisher,Carlton,Richmond,10840,0,0,,0.038272782,99680,87
+,,,,,,,,,,,
+8000828,DEF,Sam Durdin,Carlton,Richmond,6000,0,0,,0.023522954,99370,88
+8000147,DEF,Adam Saad,Carlton,Richmond,12780,0,0,,0.050103893,99370,88
+8000621,MID,Matthew Kennedy,Carlton,Richmond,12940,0,0,,0.040253842,99370,88
+8000919,MID,Paddy Dow,Carlton,Richmond,7120,0,0,,0.022148945,99370,88
+8000379,MID,Blake Acres,Carlton,Richmond,11720,0,0,,0.036458657,99370,88
+8001378,MID,Matthew Cottrell,Carlton,Richmond,9750,0,0,,0.030330368,99370,88
+8000240,RK,Toby Nankervis,Richmond,Carlton,12090,0,0,,0.177428823,99370,88
+8000803,FWD,Tim Taranto,Richmond,Carlton,14770,0,0,,0.052148431,99370,88
+8000137,FWD,Tom Lynch,Richmond,Carlton,12200,0,0,,0.043074533,99370,88
+,,,,,,,,,,,
+8000608,DEF,Nathan Broad,Richmond,Carlton,9620,0,0,,0.037715137,99090,89
+8000007,DEF,Sam Docherty,Carlton,Richmond,17160,0,0,,0.06727565,99090,89
+8001384,MID,Sam Walsh,Carlton,Richmond,15150,0,0,,0.047128725,99090,89
+8000509,MID,David Cuningham,Carlton,Richmond,7180,0,0,,0.022335594,99090,89
+8000040,MID,Kamdyn McIntosh,Richmond,Carlton,11210,0,0,,0.034872146,99090,89
+8000936,MID,Adam Cerra,Carlton,Richmond,14120,0,0,,0.043924594,99090,89
+8001838,RK,Domanic Akuei,Carlton,Richmond,6000,0,0,,0.088054006,99090,89
+8000139,FWD,Jack Martin,Carlton,Richmond,7910,0,0,,0.027927833,99090,89
+8000984,FWD,Liam Baker,Richmond,Carlton,10740,0,0,,0.037919712,99090,89
+,,,,,,,,,,,
+8000193,DEF,Robbie Tarrant,Richmond,Carlton,6000,0,0,,0.023522954,99960,90
+8000147,DEF,Adam Saad,Carlton,Richmond,12780,0,0,,0.050103893,99960,90
+8000919,MID,Paddy Dow,Carlton,Richmond,7120,0,0,,0.022148945,99960,90
+8000803,MID,Tim Taranto,Richmond,Carlton,14770,0,0,,0.045946619,99960,90
+8000461,MID,Jayden Short,Richmond,Carlton,13430,0,0,,0.041778137,99960,90
+8001384,MID,Sam Walsh,Carlton,Richmond,15150,0,0,,0.047128725,99960,90
+8000240,RK,Toby Nankervis,Richmond,Carlton,12090,0,0,,0.177428823,99960,90
+8000854,FWD,Shai Bolton,Richmond,Carlton,10950,0,0,,0.038661159,99960,90
+8000857,FWD,Ivan Soldo,Richmond,Carlton,7670,0,0,,0.027080465,99960,90
+,,,,,,,,,,,
+8000984,DEF,Liam Baker,Richmond,Carlton,10740,0,0,,0.042106089,99940,91
+8000828,DEF,Sam Durdin,Carlton,Richmond,6000,0,0,,0.023522954,99940,91
+8000621,MID,Matthew Kennedy,Carlton,Richmond,12940,0,0,,0.040253842,99940,91
+8000936,MID,Adam Cerra,Carlton,Richmond,14120,0,0,,0.043924594,99940,91
+8000856,MID,Jack Graham,Richmond,Carlton,11040,0,0,,0.034343309,99940,91
+8000004,MID,Patrick Cripps,Carlton,Richmond,15030,0,0,,0.046755428,99940,91
+8001787,RK,Mate Colina,Richmond,Carlton,6000,0,0,,0.088054006,99940,91
+8000039,FWD,Dustin Martin,Richmond,Carlton,13330,0,0,,0.047064223,99940,91
+8000984,FWD,Liam Baker,Richmond,Carlton,10740,0,0,,0.037919712,99940,91
+,,,,,,,,,,,
+8000608,DEF,Nathan Broad,Richmond,Carlton,9620,0,0,,0.037715137,99830,92
+8000147,DEF,Adam Saad,Carlton,Richmond,12780,0,0,,0.050103893,99830,92
+8000936,MID,Adam Cerra,Carlton,Richmond,14120,0,0,,0.043924594,99830,92
+8000921,MID,Lochie O'Brien,Carlton,Richmond,10240,0,0,,0.031854663,99830,92
+8000039,MID,Dustin Martin,Richmond,Carlton,13330,0,0,,0.041467057,99830,92
+8000004,MID,Patrick Cripps,Carlton,Richmond,15030,0,0,,0.046755428,99830,92
+8001790,RK,Samson Ryan,Richmond,Carlton,6000,0,0,,0.088054006,99830,92
+8000856,FWD,Jack Graham,Richmond,Carlton,11040,0,0,,0.038978922,99830,92
+8000857,FWD,Ivan Soldo,Richmond,Carlton,7670,0,0,,0.027080465,99830,92
+,,,,,,,,,,,
+8000050,DEF,Nick Vlastuin,Richmond,Carlton,12520,0,0,,0.049084565,99650,93
+8000167,DEF,Mitch McGovern,Carlton,Richmond,9850,0,0,,0.03861685,99650,93
+8000936,MID,Adam Cerra,Carlton,Richmond,14120,0,0,,0.043924594,99650,93
+8000379,MID,Blake Acres,Carlton,Richmond,11720,0,0,,0.036458657,99650,93
+8000040,MID,Kamdyn McIntosh,Richmond,Carlton,11210,0,0,,0.034872146,99650,93
+8001454,MID,Jack Ross,Richmond,Carlton,9980,0,0,,0.031045853,99650,93
+8000454,RK,Marc Pittonet,Carlton,Richmond,8720,0,0,,0.127971823,99650,93
+8000046,FWD,Jack Riewoldt,Richmond,Carlton,9330,0,0,,0.032941426,99650,93
+8000137,FWD,Tom Lynch,Richmond,Carlton,12200,0,0,,0.043074533,99650,93
+,,,,,,,,,,,
+8002340,DEF,Kaleb Smith,Richmond,Carlton,6000,0,0,,0.023522954,99060,94
+8000007,DEF,Sam Docherty,Carlton,Richmond,17160,0,0,,0.06727565,99060,94
+8000006,MID,Ed Curnow,Carlton,Richmond,11870,0,0,,0.036925278,99060,94
+8000803,MID,Tim Taranto,Richmond,Carlton,14770,0,0,,0.045946619,99060,94
+8001454,MID,Jack Ross,Richmond,Carlton,9980,0,0,,0.031045853,99060,94
+8000039,MID,Dustin Martin,Richmond,Carlton,13330,0,0,,0.041467057,99060,94
+8000240,RK,Toby Nankervis,Richmond,Carlton,12090,0,0,,0.177428823,99060,94
+8001733,FWD,Corey Durdin,Carlton,Richmond,6000,0,0,,0.021184197,99060,94
+8001381,FWD,Matthew Owies,Carlton,Richmond,7860,0,0,,0.027751298,99060,94
+,,,,,,,,,,,
+8001571,DEF,Hugo Ralphsmith,Richmond,Carlton,8180,0,0,,0.032069628,99350,95
+8000050,DEF,Nick Vlastuin,Richmond,Carlton,12520,0,0,,0.049084565,99350,95
+8000803,MID,Tim Taranto,Richmond,Carlton,14770,0,0,,0.045946619,99350,95
+8000039,MID,Dustin Martin,Richmond,Carlton,13330,0,0,,0.041467057,99350,95
+8002278,MID,Jaxon Binns,Carlton,Richmond,6000,0,0,,0.018664842,99350,95
+8000854,MID,Shai Bolton,Richmond,Carlton,10950,0,0,,0.034063336,99350,95
+8000240,RK,Toby Nankervis,Richmond,Carlton,12090,0,0,,0.177428823,99350,95
+8000723,FWD,Harry McKay,Carlton,Richmond,11240,0,0,,0.039685062,99350,95
+8000637,FWD,Jack Silvagni,Carlton,Richmond,10270,0,0,,0.036260283,99350,95
+,,,,,,,,,,,
+8000087,DEF,Caleb Marchbank,Carlton,Richmond,6000,0,0,,0.023522954,99600,96
+8000007,DEF,Sam Docherty,Carlton,Richmond,17160,0,0,,0.06727565,99600,96
+8000461,MID,Jayden Short,Richmond,Carlton,13430,0,0,,0.041778137,99600,96
+8000854,MID,Shai Bolton,Richmond,Carlton,10950,0,0,,0.034063336,99600,96
+8000621,MID,Matthew Kennedy,Carlton,Richmond,12940,0,0,,0.040253842,99600,96
+8000004,MID,Patrick Cripps,Carlton,Richmond,15030,0,0,,0.046755428,99600,96
+8000240,RK,Toby Nankervis,Richmond,Carlton,12090,0,0,,0.177428823,99600,96
+8001958,FWD,Jacob Bauer,Richmond,Carlton,6000,0,0,,0.021184197,99600,96
+8001787,FWD,Mate Colina,Richmond,Carlton,6000,0,0,,0.021184197,99600,96
+,,,,,,,,,,,
+8000984,DEF,Liam Baker,Richmond,Carlton,10740,0,0,,0.042106089,99470,97
+8000147,DEF,Adam Saad,Carlton,Richmond,12780,0,0,,0.050103893,99470,97
+8000231,MID,George Hewett,Carlton,Richmond,12880,0,0,,0.040067193,99470,97
+8000856,MID,Jack Graham,Richmond,Carlton,11040,0,0,,0.034343309,99470,97
+8001378,MID,Matthew Cottrell,Carlton,Richmond,9750,0,0,,0.030330368,99470,97
+8000803,MID,Tim Taranto,Richmond,Carlton,14770,0,0,,0.045946619,99470,97
+8001838,RK,Domanic Akuei,Carlton,Richmond,6000,0,0,,0.088054006,99470,97
+8000723,FWD,Harry McKay,Carlton,Richmond,11240,0,0,,0.039685062,99470,97
+8000637,FWD,Jack Silvagni,Carlton,Richmond,10270,0,0,,0.036260283,99470,97
+,,,,,,,,,,,
+8001838,DEF,Domanic Akuei,Carlton,Richmond,6000,0,0,,0.023522954,99540,98
+8000007,DEF,Sam Docherty,Carlton,Richmond,17160,0,0,,0.06727565,99540,98
+8000919,MID,Paddy Dow,Carlton,Richmond,7120,0,0,,0.022148945,99540,98
+8000004,MID,Patrick Cripps,Carlton,Richmond,15030,0,0,,0.046755428,99540,98
+8000856,MID,Jack Graham,Richmond,Carlton,11040,0,0,,0.034343309,99540,98
+8000499,MID,Jacob Hopper,Richmond,Carlton,12690,0,0,,0.03947614,99540,98
+8000454,RK,Marc Pittonet,Carlton,Richmond,8720,0,0,,0.127971823,99540,98
+8000005,FWD,Charlie Curnow,Carlton,Richmond,10940,0,0,,0.038625852,99540,98
+8000716,FWD,Zac Fisher,Carlton,Richmond,10840,0,0,,0.038272782,99540,98
+,,,,,,,,,,,
+8001571,DEF,Hugo Ralphsmith,Richmond,Carlton,8180,0,0,,0.032069628,99460,99
+8000167,DEF,Mitch McGovern,Carlton,Richmond,9850,0,0,,0.03861685,99460,99
+8001384,MID,Sam Walsh,Carlton,Richmond,15150,0,0,,0.047128725,99460,99
+8000231,MID,George Hewett,Carlton,Richmond,12880,0,0,,0.040067193,99460,99
+8000461,MID,Jayden Short,Richmond,Carlton,13430,0,0,,0.041778137,99460,99
+8001896,MID,Tyler Sonsie,Richmond,Carlton,9310,0,0,,0.028961613,99460,99
+8000918,RK,Tom De Koning,Carlton,Richmond,9660,0,0,,0.14176695,99460,99
+8000857,FWD,Ivan Soldo,Richmond,Carlton,7670,0,0,,0.027080465,99460,99
+8000039,FWD,Dustin Martin,Richmond,Carlton,13330,0,0,,0.047064223,99460,99
+,,,,,,,,,,,
+8000007,DEF,Sam Docherty,Carlton,Richmond,17160,0,0,,0.06727565,99450,100
+8000533,DEF,Lachie Plowman,Carlton,Richmond,7560,0,0,,0.029638923,99450,100
+8000040,MID,Kamdyn McIntosh,Richmond,Carlton,11210,0,0,,0.034872146,99450,100
+8000621,MID,Matthew Kennedy,Carlton,Richmond,12940,0,0,,0.040253842,99450,100
+8000144,MID,Dion Prestia,Richmond,Carlton,13300,0,0,,0.041373732,99450,100
+8000936,MID,Adam Cerra,Carlton,Richmond,14120,0,0,,0.043924594,99450,100
+8001790,RK,Samson Ryan,Richmond,Carlton,6000,0,0,,0.088054006,99450,100
+8001509,FWD,Brodie Kemp,Carlton,Richmond,6120,0,0,,0.021607881,99450,100
+8000856,FWD,Jack Graham,Richmond,Carlton,11040,0,0,,0.038978922,99450,100
